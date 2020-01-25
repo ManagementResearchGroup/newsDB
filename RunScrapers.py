@@ -2,16 +2,18 @@ import sys
 from pymongo import MongoClient
 from NewspaperScraper import *
 
-client = MongoClient()
+client = MongoClient('localhost', 27017)
 db = client.News_database
 
 
 def run_scraper(scraper):
+    # get a list of all links to news articles
     scraper.get_pages()
-    data = scraper.newspaper_parser()
-    # scraper.write_to_mongo(data, db.articles_about_fake_news_rerun)
+    # scrape data link by link (open them)
+    #data = scraper.newspaper_parser()
+    #scraper.write_to_mongo(data, db.articles2019)
     # scraper.write_to_csv(data, "test")
-    scraper.write_to_json(data, "test_json")
+    # scraper.write_to_json(data, "test_json.json")
 
 
 def initialize_scraper(args):
@@ -35,7 +37,6 @@ def initialize_scraper(args):
     elif args[1] == 'TIME':
         run_scraper(TimeScraper(args[1], args[2], args[3], args[4]))
     elif args[1] == 'Wall Street Journal':
-        print("wall")
         run_scraper(WSJScraper(args[1], args[2], args[3], args[4], args[5], args[6]))
     elif args[1] == 'New York Times':
         run_scraper(NYTScraper(args[1], args[2], args[3], args[4], args[5], args[6]))
