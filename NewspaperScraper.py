@@ -248,25 +248,3 @@ class WSJScraper(NewspaperScraperWithAuthentication):
         #for l in links:
             #print(l)
         return links
-
-#
-# pub_date = pub_date.replace("Updated", "")
-#                import calendar
-#                abbr_to_num = {name: num for num, name in enumerate(calendar.month_abbr) if num}
-#                pub_date = pub_date.split()
-#                month = abbr_to_num[str(pub_date[0].replace(".", ""))]
-#                day = pub_date[1].replace(",", "")
-#                year = pub_date[2]
-#                daytime = pub_date[4]
-#                ttime = pub_date[3].split(":")
-#                minute = ttime[1]
-#                if daytime == "am":
-#                    hour = ttime[0]
-#                else:
-#                    hour = int(ttime[0]) + 12
-#                    if hour == 24:
-#                        hour -= 1
-#                import datetime
-#                dprint([int(year), int(month), int(day), int(hour), int(minute)])
-#                pub_date = datetime.datetime(int(year), int(month), int(day), int(hour), int(minute)).strftime("%m/%d/%Y %H:%M:%S")
-#                publish_date = pub_date

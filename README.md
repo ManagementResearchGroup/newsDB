@@ -8,7 +8,16 @@ Creating News DB by crawling mainstream US media (targeting Fortune 1000 compani
 
 ## Based on https://github.com/the-dataface/Newspaper-Scrapers
 ## Updated to work with Python 3 and newest packages
+## packages needed:
+pymongo
 
-can be currently used from command line, automation in progress:
+bs4
 
-python RunScrapers.py  "Wall Street Journal"  "Elon Musk" "01-01-2019" "01-15-2019" "marcel@tkacik.cz"  "researchPrague3"
+selenium
+
+python-dateutil
+
+newspaper3k
+
+
+# Use Get_Data.py to run 

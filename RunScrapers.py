@@ -2,6 +2,7 @@ import sys
 from pymongo import MongoClient
 from NewspaperScraper import *
 
+# mongo db settings
 client = MongoClient('localhost', 27017)
 db = client.News_database
 
@@ -10,10 +11,9 @@ def run_scraper(scraper):
     # get a list of all links to news articles
     scraper.get_pages()
     # scrape data link by link (open them)
-    #data = scraper.newspaper_parser()
-    #scraper.write_to_mongo(data, db.articles2019)
-    # scraper.write_to_csv(data, "test")
-    # scraper.write_to_json(data, "test_json.json")
+    data = scraper.newspaper_parser()
+    # write to Mongo in db named db."DB_NAME")
+    scraper.write_to_mongo(data, db.articles2019)
 
 
 def initialize_scraper(args):
