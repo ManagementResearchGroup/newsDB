@@ -14,7 +14,8 @@ with open('fortune500.csv') as csv_file:
             row_count += 1
 
 print(companies)
-date_max = "12-31-2019"
-date_min = "01-01-2019"
-for c in companies:
-    initialize_scraper([0, "Wall Street Journal", c, date_min, date_max, "marcel@tkacik.cz", "researchPrague3"])
+date_max = "12-31-2017"
+date_min = "01-01-2017"
+#for c in companies:
+#    initialize_scraper([0, "Wall Street Journal", c, date_min, date_max, "marcel@tkacik.cz", "researchPrague3"])
+initialize_scraper([0, "Wall Street Journal", "Elon Musk", date_min, date_max, "marcel@tkacik.cz", "researchPrague3"])

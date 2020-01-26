@@ -13,7 +13,7 @@ def run_scraper(scraper):
     # scrape data link by link (open them)
     data = scraper.newspaper_parser()
     # write to Mongo in db named db."DB_NAME")
-    scraper.write_to_mongo(data, db.articles2019)
+    scraper.write_to_mongo(data, db.articles_musk)
 
 
 def initialize_scraper(args):
