@@ -1,0 +1,1001 @@
+,Rank,Company,CEO,Female,NameNoSpaces,FullName
+0,1,Walmart,Doug McMillon,0,DougMcMillon,Doug McMillon
+1,2,Exxon Mobil,Darren Woods,0,DarrenWoods,Darren W. Woods
+2,3,Berkshire Hathaway,Warren Buffett,0,WarrenBuffett,Warren Buffett
+3,4,Apple,Tim Cook,0,TimCook,Tim Cook
+4,5,UnitedHealth Group,David Wichmann,0,DavidWichmann,David S. Wichmann
+5,6,McKesson,John Hammergren,0,JohnHammergren,John H. Hammergren
+6,7,CVS Health,Larry Merlo,0,LarryMerlo,Larry J. Merlo
+7,8,Amazon.com,Jeff Bezos,0,JeffBezos,Jeff Bezos
+8,9,AT&T,Randall Stephenson,0,RandallStephenson,Randall L. Stephenson
+9,10,General Motors,Mary Barra,1,MaryBarra,Mary T. Barra
+10,11,Ford Motor,James Hackett,0,JamesHackett,James P. Hackett
+11,12,AmerisourceBergen,Steven Collis,0,StevenCollis,Steven H. Collis
+12,13,Chevron,Mike Wirth,0,MikeWirth,Mike Wirth
+13,14,Cardinal Health,Michael Kaufmann,0,MichaelKaufmann,Michael C. Kaufmann
+14,15,Costco,Craig Jelinek,0,CraigJelinek,W. Craig Jelinek
+15,16,Verizon,Lowell McAdam,0,LowellMcAdam,Lowell C. McAdam
+16,17,Kroger,Rodney McMullen,0,RodneyMcMullen,W. Rodney McMullen
+17,18,General Electric,John Flannery ,0,JohnFlannery,John L. Flannery Jr.
+18,19,Walgreens Boots Alliance,Stefano Pessina,0,StefanoPessina,Stefano Pessina
+19,20,JPMorgan Chase,James Dimon,0,JamesDimon,James Dimon
+20,21,Fannie Mae,Timothy Mayopoulos,0,TimothyMayopoulos,Timothy J. Mayopoulos
+21,22,Alphabet,Larry Page,0,LarryPage,Larry Page
+22,23,Home Depot,Craig Menear,0,CraigMenear,Craig A. Menear
+23,24,Bank of America Corp.,Brian Moynihan,0,BrianMoynihan,Brian T. Moynihan
+24,25,Express Scripts Holding,Timothy Wentworth,0,TimothyWentworth,Timothy C. Wentworth
+25,26,Wells Fargo,Timothy Sloan,0,TimothySloan,Timothy J. Sloan
+26,27,Boeing,Dennis Muilenburg,0,DennisMuilenburg,Dennis A. Muilenburg
+27,28,Phillips 66,Greg Garland,0,GregGarland,Greg C. Garland
+28,29,Anthem,Gail Boudreaux,0,GailBoudreaux,Gail K. Boudreaux
+29,30,Microsoft,Satya Nadella,0,SatyaNadella,Satya Nadella
+30,31,Valero Energy,Joseph Gorder,0,JosephGorder,Joseph W. Gorder
+31,32,Citigroup,Michael Corbat,0,MichaelCorbat,Michael L. Corbat
+32,33,Comcast,Brian Roberts,0,BrianRoberts,Brian L. Roberts
+33,34,IBM,Ginni Rometty,1,GinniRometty,Ginni Rometty
+34,35,Dell Technologies,Michael Dell,0,MichaelDell,Michael S. Dell
+35,36,State Farm Insurance Cos.,Michael Tipsord,0,MichaelTipsord,Michael L. Tipsord
+36,37,Johnson & Johnson,Alex Gorsky,0,AlexGorsky,Alex Gorsky
+37,38,Freddie Mac,Donald Layton,0,DonaldLayton,Donald H. Layton
+38,39,Target,Brian Cornell,0,BrianCornell,Brian C. Cornell
+39,40,Lowes,Robert Niblock,0,RobertNiblock,Robert A. Niblock
+40,41,Marathon Petroleum,Gary Heminger,0,GaryHeminger,Gary R. Heminger
+41,42,Procter & Gamble,David Taylor,0,DavidTaylor,David S. Taylor
+42,43,MetLife,Steven Kandarian,0,StevenKandarian,Steven A. Kandarian
+43,44,UPS,David Abney,0,DavidAbney,David P. Abney
+44,45,PepsiCo,Indra Nooyi,0,IndraNooyi,Indra K. Nooyi
+45,46,Intel,Robert Swan,0,RobertSwan,Robert H. Swan
+46,47,DowDuPont,Edward Breen,0,EdwardBreen,Edward D. Breen
+47,48,Archer Daniels Midland,Juan Luciano,0,JuanLuciano,Juan R. Luciano
+48,49,Aetna,Mark Bertolini,0,MarkBertolini,Mark T. Bertolini
+49,50,FedEx,Frederick Smith,0,FrederickSmith,Frederick W. Smith
+50,51,United Technologies,Gregory Hayes,0,GregoryHayes,Gregory J. Hayes
+51,52,Prudential Financial,John Strangfeld,0,JohnStrangfeld,John R. Strangfeld
+52,53,Albertsons Cos.,Robert Miller,0,RobertMiller,Robert G. Miller
+53,54,Sysco,Tom Bene,0,TomBene,Tom Bene
+54,55,Disney,Robert Iger,0,RobertIger,Robert A. Iger
+55,56,Humana,Bruce Broussard,0,BruceBroussard,Bruce D. Broussard
+56,57,Pfizer,Ian Read,0,IanRead,Ian C. Read
+57,58,HP,Dion Weisler,0,DionWeisler,Dion J. Weisler
+58,59,Lockheed Martin,Marillyn Hewson,0,MarillynHewson,Marillyn A. Hewson
+59,60,AIG,Brian Duperreault,0,BrianDuperreault,Brian Duperreault
+60,61,Centene,Michael Neidorff,0,MichaelNeidorff,Michael F. Neidorff
+61,62,Cisco Systems,Charles Robbins,0,CharlesRobbins,Charles H. Robbins
+62,63,HCA Healthcare,Milton Johnson,0,MiltonJohnson,R. Milton Johnson
+63,64,Energy Transfer Equity,John McReynolds,0,JohnMcReynolds,John W. McReynolds
+64,65,Caterpillar,James Umpleby I,0,JamesUmplebyI,D. James Umpleby III
+65,66,Nationwide,Stephen Rasmussen,0,StephenRasmussen,Stephen S. Rasmussen
+66,67,Morgan Stanley,James Gorman,0,JamesGorman,James P. Gorman
+67,68,Liberty Mutual Insurance Group,David Long,0,DavidLong,David H. Long
+68,69,New York Life Insurance,Theodore Mathas,0,TheodoreMathas,Theodore A. Mathas
+69,70,Goldman Sachs Group,Lloyd Blankfein,0,LloydBlankfein,Lloyd C. Blankfein
+70,71,American Airlines Group,Douglas Parker,0,DouglasParker,W. Douglas Parker
+71,72,Best Buy,Corie Barry,1,CorieBarry,Corie Barry
+72,73,Cigna,David Cordani,0,DavidCordani,David M. Cordani
+73,74,Charter Communications,Thomas Rutledge,0,ThomasRutledge,Thomas M. Rutledge
+74,75,Delta Air Lines,Edward Bastian,0,EdwardBastian,Edward H. Bastian
+75,76,Facebook,Mark Zuckerberg,0,MarkZuckerberg,Mark Zuckerberg
+76,77,Honeywell International,Darius Adamczyk,0,DariusAdamczyk,Darius Adamczyk
+77,78,Merck,Kenneth Frazier,0,KennethFrazier,Kenneth C. Frazier
+78,79,Allstate,Thomas Wilson,0,ThomasWilson,Thomas J. Wilson
+79,80,Tyson Foods,Thomas Hayes,0,ThomasHayes,Thomas P. Hayes
+80,81,United Continental Holdings,Oscar Munoz,0,OscarMunoz,Oscar Munoz
+81,82,Oracle,Safra Catz,0,SafraCatz,Safra Catz
+82,83,Tech Data,Richard Hume,0,RichardHume,Richard T. Hume
+83,84,TIAA,Roger Ferguson ,0,RogerFerguson,Roger W. Ferguson Jr.
+84,85,TJX,Ernie Herrman,0,ErnieHerrman,Ernie L. Herrman
+85,86,American Express,Stephen Squeri,0,StephenSqueri,Stephen J. Squeri
+86,87,Coca-Cola,James Quincey,0,JamesQuincey,James R. Quincey
+87,88,Publix Super Markets,Randall Jones Sr.,0,RandallJonesSr.,Randall T. Jones Sr.
+88,89,Nike,Mark Parker,0,MarkParker,Mark G. Parker
+89,90,Andeavor,Gregory Goff,0,GregoryGoff,Gregory J. Goff
+90,91,World Fuel Services,Michael Kasbar,0,MichaelKasbar,Michael J. Kasbar
+91,92,Exelon,Christopher Crane,0,ChristopherCrane,Christopher M. Crane
+92,93,Massachusetts Mutual Life Insurance,Roger Crandall,0,RogerCrandall,Roger W. Crandall
+93,94,Rite Aid,John Standley,0,JohnStandley,John T. Standley
+94,95,ConocoPhillips,Ryan Lance,0,RyanLance,Ryan M. Lance
+95,96,CHS,Jay Debertin,0,JayDebertin,Jay D. Debertin
+96,97,3M,Inge Thulin,0,IngeThulin,Inge G. Thulin
+97,98,Time Warner,John Stankey,0,JohnStankey,John Stankey
+98,99,General Dynamics,Phebe Novakovic,1,PhebeNovakovic,Phebe Novakovic
+99,100,USAA,Stuart Parker,0,StuartParker,Stuart Parker
+100,101,Capital One Financial,Richard Fairbank,0,RichardFairbank,Richard D. Fairbank
+101,102,Deere,Samuel Allen,0,SamuelAllen,Samuel R. Allen
+102,103,INTL FCStone,Sean O'Connor,0,SeanO'Connor,Sean M. O'Connor
+103,104,Northwestern Mutual,John Schlifske,0,JohnSchlifske,John E. Schlifske
+104,105,Enterprise Products Partners,James Teague,0,JamesTeague,A. James Teague
+105,106,Travelers Cos.,Alan Schnitzer,0,AlanSchnitzer,Alan D. Schnitzer
+106,107,Hewlett Packard Enterprise,Antonio Neri,0,AntonioNeri,Antonio Neri
+107,108,Philip Morris International,Andrï¿½ Calantzopoulos,0,Andrï¿½Calantzopoulos,Andrï¿½ Calantzopoulos
+108,109,Twenty-First Century Fox,James Murdoch,0,JamesMurdoch,James R. Murdoch
+109,110,AbbVie,Richard Gonzalez,0,RichardGonzalez,Richard A. Gonzalez
+110,111,Abbott Laboratories,Miles White,0,MilesWhite,Miles D. White
+111,112,Progressive,Tricia Griffith,0,TriciaGriffith,Tricia Griffith
+112,113,Arrow Electronics,Michael Long,0,MichaelLong,Michael J. Long
+113,114,Kraft Heinz,Bernardo Hees,0,BernardoHees,Bernardo Hees
+114,115,Plains GP Holdings,Greg Armstrong,0,GregArmstrong,Greg L. Armstrong
+115,116,Gilead Sciences,John Milligan ,0,JohnMilligan,John F. Milligan IV
+116,117,Mondelez International,Dirk Van de Put,0,DirkVandePut,Dirk Van de Put
+117,118,Northrop Grumman,Kathy Warden,1,KathyWarden,Kathy Warden
+118,119,Raytheon,Thomas Kennedy,0,ThomasKennedy,Thomas A. Kennedy
+119,120,Macys,Jeffrey Gennette,0,JeffreyGennette,Jeffrey Gennette
+120,121,US Foods Holding,Pietro Satriano,0,PietroSatriano,Pietro Satriano
+121,122,U.S. Bancorp,Andrew Cecere,0,AndrewCecere,Andrew J. Cecere
+122,123,Dollar General,Todd Vasos,0,ToddVasos,Todd J. Vasos
+123,124,International Paper,Mark Sutton,0,MarkSutton,Mark S. Sutton
+124,125,Duke Energy,Lynn Good,1,LynnGood,Lynn Good
+125,126,Southern,Thomas Fanning,0,ThomasFanning,Thomas A. Fanning
+126,127,Marriott International,Arne Sorenson,0,ArneSorenson,Arne M. Sorenson
+127,128,Avnet,William Amelio,0,WilliamAmelio,William J. Amelio
+128,129,Eli Lilly,David Ricks,0,DavidRicks,David A. Ricks
+129,130,Amgen,Robert Bradway,0,RobertBradway,Robert A. Bradway
+130,131,McDonalds,Stephen Easterbrook,0,StephenEasterbrook,Stephen J. Easterbrook
+131,132,Starbucks,Keven Johnson,0,KevenJohnson,Keven R. Johnson
+132,133,Qualcomm,Steven Mollenkopf,0,StevenMollenkopf,Steven M. Mollenkopf
+133,134,Dollar Tree,Gary Philbin,0,GaryPhilbin,Gary M. Philbin
+134,135,PBF Energy,Thomas Nimbley,0,ThomasNimbley,Thomas J. Nimbley
+135,136,Icahn Enterprises,Keith Cozza,0,KeithCozza,Keith Cozza
+136,137,Aflac,Daniel Amos,0,DanielAmos,Daniel P. Amos
+137,138,AutoNation,Michael Jackson,0,MichaelJackson,Michael J. Jackson
+138,139,Penske Automotive Group,Roger Penske,0,RogerPenske,Roger S. Penske
+139,140,Whirlpool,Marc Bitzer,0,MarcBitzer,Marc R. Bitzer
+140,141,Union Pacific,Lance Fritz,0,LanceFritz,Lance M. Fritz
+141,142,Southwest Airlines,Gary Kelly,0,GaryKelly,Gary C. Kelly
+142,143,ManpowerGroup,Jonas Prising,0,JonasPrising,Jonas Prising
+143,144,Thermo Fisher Scientific,Marc Casper,0,MarcCasper,Marc N. Casper
+144,145,Bristol-Myers Squibb,Giovanni Caforio,0,GiovanniCaforio,Giovanni Caforio
+145,146,Halliburton,Jeffrey Miller,0,JeffreyMiller,Jeffrey A. Miller
+146,147,Tenet Healthcare,Ronald Rittenmeyer,0,RonaldRittenmeyer,Ronald A. Rittenmeyer
+147,148,Lear,Raymond Scott,0,RaymondScott,Raymond E. Scott
+148,149,Cummins,Thomas Linebarger,0,ThomasLinebarger,N. Thomas Linebarger
+149,150,Micron Technology,Sanjay Mehrotra,0,SanjayMehrotra,Sanjay Mehrotra
+150,151,Nucor,John Ferriola,0,JohnFerriola,John J. Ferriola
+151,152,Molina Healthcare,Joseph Zubretsky,0,JosephZubretsky,Joseph M. Zubretsky
+152,153,Fluor,David Seaton,0,DavidSeaton,David T. Seaton
+153,154,Altria Group,Howard Willard I,0,HowardWillardI,Howard A. Willard III
+154,155,Paccar,Ronald Armstrong,0,RonaldArmstrong,Ronald E. Armstrong
+155,156,Hartford Financial Services,Christopher Swift,0,ChristopherSwift,Christopher J. Swift
+156,157,Kohls,Michelle Gass,1,MichelleGass,Michelle Gass
+157,158,Western Digital,Stephen Milligan,0,StephenMilligan,Stephen D. Milligan
+158,159,Jabil,Mark Mondello,0,MarkMondello,Mark T. Mondello
+159,160,Community Health Systems,Wayne Smith,0,WayneSmith,Wayne T. Smith
+160,161,Visa,Alfred Kelly ,0,AlfredKelly,Alfred F. Kelly Jr.
+161,162,Danaher,Thomas Joyce ,0,ThomasJoyce,Thomas P. Joyce Jr.
+162,163,Kimberly-Clark,Thomas Falk,0,ThomasFalk,Thomas J. Falk
+163,164,AECOM,Michael Burke,0,MichaelBurke,Michael S. Burke
+164,165,PNC Financial Services,William Demchak,0,WilliamDemchak,William S. Demchak
+165,166,CenturyLink,Jeffrey Storey,0,JeffreyStorey,Jeffrey K. Storey
+166,167,NextEra Energy,James Robo,0,JamesRobo,James L. Robo
+167,168,PG& E Corp.,Geisha Williams,0,GeishaWilliams,Geisha J. Williams
+168,169,Synnex,Dennis Polk,0,DennisPolk,Dennis Polk
+169,170,WellCare Health Plans,Kenneth Burdick,0,KennethBurdick,Kenneth A. Burdick
+170,171,Performance Food Group,George Holm,0,GeorgeHolm,George L. Holm
+171,172,Sears Holdings,Edward Lampert,0,EdwardLampert,Edward S. Lampert
+172,173,Synchrony Financial,Margaret Keane,1,MargaretKeane,Margaret Keane
+173,174,CarMax,William Nash,0,WilliamNash,William D. Nash
+174,175,Bank of New York Mellon,Charles Scharf,0,CharlesScharf,Charles W. Scharf
+175,176,Freeport-McMoRan,Richard Adkerson,0,RichardAdkerson,Richard C. Adkerson
+176,177,Genuine Parts,Paul Donahue,0,PaulDonahue,Paul D. Donahue
+177,178,Emerson Electric,David Farr,0,DavidFarr,David N. Farr
+178,179,DaVita,Kent Thiry,0,KentThiry,Kent J. Thiry
+179,180,Supervalu,Mark Gross,0,MarkGross,Mark Gross
+180,181,Gap,Arthur Peck,0,ArthurPeck,Arthur L. Peck
+181,182,General Mills,Jeffrey Harmening,0,JeffreyHarmening,Jeffrey L. Harmening
+182,183,Nordstrom,Blake Nordstrom,0,BlakeNordstrom,Blake W. Nordstrom
+183,184,Colgate-Palmolive,Ian Cook,0,IanCook,Ian M. Cook
+184,185,American Electric Power,Nicholas Akins,0,NicholasAkins,Nicholas K. Akins
+185,186,XPO Logistics,Bradley Jacobs,0,BradleyJacobs,Bradley S. Jacobs
+186,187,Goodyear Tire & Rubber,Richard Kramer,0,RichardKramer,Richard J. Kramer
+187,188,Omnicom Group,John Wren,0,JohnWren,John D. Wren
+188,189,CDW,Christine Leahy,1,ChristineLeahy,Christine Leahy
+189,190,Sherwin-Williams,John Morikis,0,JohnMorikis,John G. Morikis
+190,191,PPG Industries,Michael McGarry,0,MichaelMcGarry,Michael H. McGarry
+191,192,Texas Instruments,Brian Crutcher,0,BrianCrutcher,Brian T. Crutcher
+192,193,C.H. Robinson Worldwide,John Wiehoff,0,JohnWiehoff,John P. Wiehoff
+193,194,WestRock,Steven Voorhees,0,StevenVoorhees,Steven C. Voorhees
+194,195,Cognizant Technology Solutions,Francisco D'Souza,0,FranciscoD'Souza,Francisco D'Souza
+195,196,Newell Brands,Michael Polk,0,MichaelPolk,Michael B. Polk
+196,197,CBS,Leslie Moonves,0,LeslieMoonves,Leslie Moonves
+197,198,Envision Healthcare,Christopher Holden,0,ChristopherHolden,Christopher A. Holden
+198,199,Monsanto,Hugh Grant,0,HughGrant,Hugh Grant
+199,200,Aramark,Eric Foss,0,EricFoss,Eric J. Foss
+200,201,Applied Materials,Gary Dickerson,0,GaryDickerson,Gary E. Dickerson
+201,202,Waste Management,James Fish ,0,JamesFish,James C. Fish Jr.
+202,203,DISH Network,Erik Carlson,0,ErikCarlson,W. Erik Carlson
+203,204,Illinois Tool Works,Scott Santi,0,ScottSanti,E. Scott Santi
+204,205,Lincoln National,Dennis Glass,0,DennisGlass,Dennis R. Glass
+205,206,HollyFrontier,George Damiris,0,GeorgeDamiris,George J. Damiris
+206,207,CBRE Group,Robert Sulentic,0,RobertSulentic,Robert E. Sulentic
+207,208,Textron,Scott Donnelly,0,ScottDonnelly,Scott C. Donnelly
+208,209,Ross Stores,Barbara Rentler,1,BarbaraRentler,Barbara Rentler
+209,210,Principal Financial,Daniel Houston,0,DanielHouston,Daniel J. Houston
+210,211,D.R. Horton,David Auld,0,DavidAuld,David V. Auld
+211,212,Marsh & McLennan,Daniel Glaser,0,DanielGlaser,Daniel S. Glaser
+212,213,Devon Energy,David Hager,0,DavidHager,David A. Hager
+213,214,AES,Andrï¿½s Gluski,0,Andrï¿½sGluski,Andrï¿½s R. Gluski
+214,215,Ecolab,Douglas Baker ,0,DouglasBaker,Douglas M. Baker Jr.
+215,216,Land O'Lakes,Beth Ford,1,BethFord,Beth Ford
+216,217,Loews,James Tisch,0,JamesTisch,James S. Tisch
+217,218,Kinder Morgan,Steven Kean,0,StevenKean,Steven J. Kean
+218,219,FirstEnergy,Charles Jones,0,CharlesJones,Charles E. Jones
+219,220,Occidental Petroleum,Vicki Hollub,1,VickiHollub,Vicki Hollub
+220,221,Viacom,Robert Bakish,0,RobertBakish,Robert M. Bakish
+221,222,PayPal Holdings,Daniel Schulman,0,DanielSchulman,Daniel H. Schulman
+222,223,NGL Energy Partners,Michael Krimbill,0,MichaelKrimbill,H. Michael Krimbill
+223,224,Celgene,Mark Alles,0,MarkAlles,Mark J. Alles
+224,225,Arconic,Charles Blankenship,0,CharlesBlankenship,Charles P. Blankenship
+225,226,Kellogg,Steven Cahillane,0,StevenCahillane,Steven A. Cahillane
+226,227,Las Vegas Sands,Sheldon Adelson,0,SheldonAdelson,Sheldon G. Adelson
+227,228,Stanley Black & Decker,James Loree,0,JamesLoree,James M. Loree
+228,229,Booking Holdings,Glenn Fogel,0,GlennFogel,Glenn D. Fogel
+229,230,Lennar,Richard Beckwitt,0,RichardBeckwitt,Richard Beckwitt
+230,231,L Brands,Leslie Wexner,0,LeslieWexner,Leslie H. Wexner
+231,232,DTE Energy,Gerard Anderson,0,GerardAnderson,Gerard M. Anderson
+232,233,Dominion Energy,Thomas Farrell ,0,ThomasFarrell,Thomas F. Farrell II
+233,234,Reinsurance Group of America,Anna Manning,1,AnnaManning,Anna Manning
+234,235,J.C. Penney,Jill Soltau,1,JillSoltau,Jill Soltau
+235,236,Mastercard,Ajay Banga,0,AjayBanga,Ajay Banga
+236,237,BlackRock,Laurence Fink,0,LaurenceFink,Laurence D. Fink
+237,238,Henry Schein,Stanley Bergman,0,StanleyBergman,Stanley M. Bergman
+238,239,Guardian Life Ins. Co. of America,Deanna Mulligan,1,DeannaMulligan,Deanna Mulligan
+239,240,Stryker,Kevin Lobo,0,KevinLobo,Kevin A. Lobo
+240,241,Jefferies Financial Group,Richard Handler,0,RichardHandler,Richard B. Handler
+241,242,VF,Steven Rendle,0,StevenRendle,Steven E. Rendle
+242,243,ADP,Carlos Rodriguez,0,CarlosRodriguez,Carlos A. Rodriguez
+243,244,Edison International,Pedro Pizarro,0,PedroPizarro,Pedro J. Pizarro
+244,245,Biogen,Michel Vounatsos,0,MichelVounatsos,Michel Vounatsos
+245,246,United States Steel,David Burritt,0,DavidBurritt,David B. Burritt
+246,247,Core-Mark Holding,Thomas Perkins,0,ThomasPerkins,Thomas B. Perkins
+247,248,Bed Bath & Beyond,Mary Winston,1,MaryWinston,Mary Winston
+248,249,Oneok,Terry Spencer,0,TerrySpencer,Terry K. Spencer
+249,250,BB& T Corp.,Kelly King,0,KellyKing,Kelly S. King
+250,251,Becton Dickinson,Vincent Forlenza,0,VincentForlenza,Vincent A. Forlenza
+251,252,Ameriprise Financial,James Cracchiolo,0,JamesCracchiolo,James M. Cracchiolo
+252,253,Farmers Insurance Exchange,Jeffrey Dailey,0,JeffreyDailey,Jeffrey J. Dailey
+253,254,First Data,Frank Bisignano,0,FrankBisignano,Frank J. Bisignano
+254,255,Consolidated Edison,John McAvoy,0,JohnMcAvoy,John McAvoy
+255,256,Parker-Hannifin,Thomas Williams,0,ThomasWilliams,Thomas L. Williams
+256,257,Anadarko Petroleum,Walker,0,Walker,R. A. Walker
+257,258,Estee Lauder,Fabrizio Freda,0,FabrizioFreda,Fabrizio Freda
+258,259,State Street Corp.,Joseph Hooley,0,JosephHooley,Joseph L. Hooley
+259,260,Tesla,Elon Musk,0,ElonMusk,Elon Musk
+260,261,Netflix,Reed Hastings,0,ReedHastings,Reed Hastings
+261,262,Alcoa,Roy Harvey,0,RoyHarvey,Roy C. Harvey
+262,263,Discover Financial Services,David Nelms,0,DavidNelms,David W. Nelms
+263,264,Praxair,Stephen Angel,0,StephenAngel,Stephen F. Angel
+264,265,CSX,James Foote,0,JamesFoote,James M. Foote
+265,266,Xcel Energy,Benjamin G.Fowke I,0,BenjaminG.FowkeI,Benjamin G.S. Fowke III
+266,267,Unum Group,Richard McKenney,0,RichardMcKenney,Richard P. McKenney
+267,268,Universal Health Services,Alan Miller,0,AlanMiller,Alan B. Miller
+268,269,NRG Energy,Mauricio Gutierrez,0,MauricioGutierrez,Mauricio Gutierrez
+269,270,EOG Resources,William Thomas,0,WilliamThomas,William R. Thomas
+270,271,Sempra Energy,Walker Martin,0,WalkerMartin,J. Walker Martin
+271,272,Toys 'R'� Us,David Brandon,0,DavidBrandon,David A. Brandon
+272,273,Group 1 Automotive,Earl Hesterberg,0,EarlHesterberg,Earl J. Hesterberg
+273,274,Entergy,Leo Denault,0,LeoDenault,Leo P. Denault
+274,275,Molson Coors Brewing,Mark Hunter,0,MarkHunter,Mark R. Hunter
+275,276,L3 Technologies,Christopher Kubasik,0,ChristopherKubasik,Christopher E. Kubasik
+276,277,Ball,John Hayes,0,JohnHayes,John A. Hayes
+277,278,AutoZone,William Rhodes I,0,WilliamRhodesI,William C. Rhodes III
+278,279,Murphy USA,Andrew Clyde,0,AndrewClyde,R. Andrew Clyde
+279,280,MGM Resorts International,James Murren,0,JamesMurren,James J. Murren
+280,281,Office Depot,Gerry Smith,0,GerrySmith,Gerry P. Smith
+281,282,Huntsman,Peter Huntsman,0,PeterHuntsman,Peter R. Huntsman
+282,283,Baxter International,Josï¿½ Almeida,0,Josï¿½Almeida,Josï¿½ E. Almeida
+283,284,Norfolk Southern,James Squires,0,JamesSquires,James A. Squires
+284,285,salesforce.com,Marc Benioff,0,MarcBenioff,Marc R. Benioff
+285,286,Laboratory Corp. of America,David King,0,DavidKing,David P. King
+286,287,W.W. Grainger,Donald MacPherson,0,DonaldMacPherson,Donald G. MacPherson
+287,288,Qurate Retail,Gregory Maffei,0,GregoryMaffei,Gregory B. Maffei
+288,289,Autoliv,Jan Carlson,0,JanCarlson,Jan Carlson
+289,290,Live Nation Entertainment,Michael Rapino,0,MichaelRapino,Michael Rapino
+290,291,Xerox,John Visentin,0,JohnVisentin,John Visentin
+291,292,Leidos Holdings,Roger Krone,0,RogerKrone,Roger A. Krone
+292,293,Corning,Wendell Weeks,0,WendellWeeks,Wendell P. Weeks
+293,294,Lithia Motors,Bryan DeBoer,0,BryanDeBoer,Bryan B. DeBoer
+294,295,Expedia Group,Mark Okerstrom,0,MarkOkerstrom,Mark D. Okerstrom
+295,296,Republic Services,Donald Slager,0,DonaldSlager,Donald W. Slager
+296,297,Jacobs Engineering Group,Steven Demetriou,0,StevenDemetriou,Steven J. Demetriou
+297,298,Sonic Automotive,Scott Smith,0,ScottSmith,B. Scott Smith
+298,299,Ally Financial,Jeffrey Brown,0,JeffreyBrown,Jeffrey J. Brown
+299,300,LKQ,Dominick Zarcone,0,DominickZarcone,Dominick P. Zarcone
+300,301,BorgWarner,James Verrier,0,JamesVerrier,James R. Verrier
+301,302,Fidelity National Financial,Raymond Quirk,0,RaymondQuirk,Raymond R. Quirk
+302,303,SunTrust Banks,William Rogers ,0,WilliamRogers,William H. Rogers Jr.
+303,304,IQVIA Holdings,Ari Bousbib,0,AriBousbib,Ari Bousbib
+304,305,Reliance Steel & Aluminum,Gregg Mollins,0,GreggMollins,Gregg J. Mollins
+305,306,Nvidia,Jen-Hsun Huang,0,Jen-HsunHuang,Jen-Hsun Huang
+306,307,Voya Financial,Rodney Martin ,0,RodneyMartin,Rodney O. Martin Jr.
+307,308,CenterPoint Energy,Scott Prochazka,0,ScottProchazka,Scott M. Prochazka
+308,309,eBay,Devin Wenig,0,DevinWenig,Devin N. Wenig
+309,310,Eastman Chemical,Mark Costa,0,MarkCosta,Mark J. Costa
+310,311,American Family Insurance Group,Jack Salzwedel,0,JackSalzwedel,Jack C. Salzwedel
+311,312,Steel Dynamics,Mark Millett,0,MarkMillett,Mark D. Millett
+312,313,Pacific Life,James Morris,0,JamesMorris,James T. Morris
+313,314,Chesapeake Energy,Robert Lawler,0,RobertLawler,Robert D. Lawler
+314,315,Mohawk Industries,Jeffrey Lorberbaum,0,JeffreyLorberbaum,Jeffrey S. Lorberbaum
+315,316,Quanta Services,Earl Austin ,0,EarlAustin,Earl C. Austin Jr.
+316,317,Advance Auto Parts,Thomas Greco,0,ThomasGreco,Thomas R. Greco
+317,318,Owens & Minor,Cody Phipps,0,CodyPhipps,P. Cody Phipps
+318,319,United Natural Foods,Steven Spinner,0,StevenSpinner,Steven L. Spinner
+319,320,Tenneco,Brian Kesseler,0,BrianKesseler,Brian J. Kesseler
+320,321,Conagra Brands,Sean Connolly,0,SeanConnolly,Sean M. Connolly
+321,322,GameStop,Shane Kim,0,ShaneKim,Shane S. Kim
+322,323,Hormel Foods,James Snee,0,JamesSnee,James P. Snee
+323,324,Hilton Worldwide Holdings,Christopher Nassetta,0,ChristopherNassetta,Christopher J. Nassetta
+324,325,Frontier Communications,Daniel McCarthy,0,DanielMcCarthy,Daniel J. McCarthy
+325,326,Fidelity National Information Services,Gary Norcross,0,GaryNorcross,Gary A. Norcross
+326,327,Public Service Enterprise Group,Ralph Izzo,0,RalphIzzo,Ralph Izzo
+327,328,Boston Scientific,Michael Mahoney,0,MichaelMahoney,Michael F. Mahoney
+328,329,OReilly Automotive,Gregory Johnson,0,GregoryJohnson,Gregory D. Johnson
+329,330,Charles Schwab,Walter Bettinger ,0,WalterBettinger,Walter W. Bettinger II
+330,331,Global Partners,Eric Slifka,0,EricSlifka,Eric Slifka
+331,332,PVH,Emanuel Chirico,0,EmanuelChirico,Emanuel Chirico
+332,333,Avis Budget Group,Larry e Shon,0,LarryeShon,Larry D. De Shon
+333,334,Targa Resources,Joe Bob Perkins,0,JoeBobPerkins,Joe Bob Perkins
+334,335,Hertz Global Holdings,Kathryn Marinello,1,KathrynMarinello,Kathryn Marinello
+335,336,Calpine,John Hill I,0,JohnHillI,John B. Hill III
+336,337,Mutual of Omaha Insurance,James Blackledge,0,JamesBlackledge,James T. Blackledge
+337,338,Crown Holdings,Timothy Donahue,0,TimothyDonahue,Timothy J. Donahue
+338,339,Peter Kiewit Sons,Bruce Grewcock,0,BruceGrewcock,Bruce E. Grewcock
+339,340,Dicks Sporting Goods,Edward Stack,0,EdwardStack,Edward W. Stack
+340,341,PulteGroup,Ryan Marshall,0,RyanMarshall,Ryan R. Marshall
+341,342,Navistar International,Troy Clarke,0,TroyClarke,Troy A. Clarke
+342,343,Thrivent Financial for Lutherans,Teresa Rasmussen,1,TeresaRasmussen,Teresa Rasmussen
+343,344,DCP Midstream,Wouter van Kempen,0,WoutervanKempen,Wouter T. van Kempen
+344,345,Air Products & Chemicals,Seifi Ghasemi,0,SeifiGhasemi,Seifi Ghasemi
+345,346,Veritiv,Mary Laschinger,1,MaryLaschinger,Mary Laschinger
+346,347,AGCO,Martin Richenhagen,0,MartinRichenhagen,Martin H. Richenhagen
+347,348,Genworth Financial,Thomas McInerney,0,ThomasMcInerney,Thomas J. McInerney
+348,349,Univar,David Jukes,0,DavidJukes,David C. Jukes
+349,350,News Corp.,Robert Thomson,0,RobertThomson,Robert J. Thomson
+350,351,SpartanNash,David Staples,0,DavidStaples,David M. Staples
+351,352,Westlake Chemical,Albert Yuan Chao,0,AlbertYuanChao,Albert Yuan Chao
+352,353,Williams,Alan Armstrong,0,AlanArmstrong,Alan S. Armstrong
+353,354,Lam Research,Martin Anstice,0,MartinAnstice,Martin B. Anstice
+354,355,Alaska Air Group,Bradley Tilden,0,BradleyTilden,Bradley D. Tilden
+355,356,Jones Lang LaSalle,Christian Ulbrich,0,ChristianUlbrich,Christian Ulbrich
+356,357,Anixter International,Robert Eck,0,RobertEck,Robert J. Eck
+357,358,Campbell Soup,Denise Morrison,0,DeniseMorrison,Denise M. Morrison
+358,359,Interpublic Group,Michael Roth,0,MichaelRoth,Michael I. Roth
+359,360,Dover,Richard Tobin,0,RichardTobin,Richard J. Tobin
+360,361,Zimmer Biomet Holdings,Bryan Hanson,0,BryanHanson,Bryan C. Hanson
+361,362,Dean Foods,Ralph Scozzafava,0,RalphScozzafava,Ralph P. Scozzafava
+362,363,Foot Locker,Richard Johnson,0,RichardJohnson,Richard A. Johnson
+363,364,Eversource Energy,James Judge,0,JamesJudge,James J. Judge
+364,365,Alliance Data Systems,Edward Heffernan,0,EdwardHeffernan,Edward J. Heffernan
+365,366,Fifth Third Bancorp,Greg Carmichael,0,GregCarmichael,Greg D. Carmichael
+366,367,Quest Diagnostics,Stephen Rusckowski,0,StephenRusckowski,Stephen H. Rusckowski
+367,368,EMCOR Group,Anthony Guzzi,0,AnthonyGuzzi,Anthony J. Guzzi
+368,369,W.R. Berkley,Robert Berkley ,0,RobertBerkley,W. Robert Berkley Jr.
+369,370,WESCO International,John Engel,0,JohnEngel,John J. Engel
+370,371,Coty,Camillo Pane,0,CamilloPane,Camillo Pane
+371,372,WEC Energy Group,Gale Klappa,0,GaleKlappa,Gale E. Klappa
+372,373,Masco,Keith Allman,0,KeithAllman,Keith J. Allman
+373,374,DXC Technology,Michael Lawrie,0,MichaelLawrie,J. Michael Lawrie
+374,375,Auto-Owners Insurance,Jeffrey Tagsold,0,JeffreyTagsold,Jeffrey S. Tagsold
+375,376,Jones Financial (Edward Jones),Penny Pennington,1,PennyPennington,Penny Pennington
+376,377,Liberty Media,Gregory Maffei,0,GregoryMaffei,Gregory B. Maffei
+377,378,Erie Insurance Group,Timothy NeCastro,0,TimothyNeCastro,Timothy G. NeCastro
+378,379,Hershey,Michele Buck,1,MicheleBuck,Michele Buck
+379,380,PPL,William Spence,0,WilliamSpence,William H. Spence
+380,381,Huntington Ingalls Industries,Michael Petters,0,MichaelPetters,C. Michael Petters
+381,382,Mosaic,James O'Rourke,0,JamesO'Rourke,James C. O'Rourke
+382,383,J.M. Smucker,Mark Smucker,0,MarkSmucker,Mark T. Smucker
+383,384,Delek US Holdings,Ezra Uzi Yemin,0,EzraUziYemin,Ezra Uzi Yemin
+384,385,Newmont Mining,Gary Goldberg,0,GaryGoldberg,Gary J. Goldberg
+385,386,Constellation Brands,Robert Sands,0,RobertSands,Robert S. Sands
+386,387,Ryder System,Robert Sanchez,0,RobertSanchez,Robert E. Sanchez
+387,388,National Oilwell Varco,Clay Williams,0,ClayWilliams,Clay C. Williams
+388,389,Adobe Systems,Shantanu Narayen,0,ShantanuNarayen,Shantanu Narayen
+389,390,LifePoint Health,William Carpenter I,0,WilliamCarpenterI,William F. Carpenter III
+390,391,Tractor Supply,Gregory Sandfort,0,GregorySandfort,Gregory A. Sandfort
+391,392,Thor Industries,Robert Martin,0,RobertMartin,Robert W. Martin
+392,393,Dana,James Kamsickas,0,JamesKamsickas,James K. Kamsickas
+393,394,Weyerhaeuser,Doyle Simons,0,DoyleSimons,Doyle R. Simons
+394,395,J.B. Hunt Transport Services,John Roberts I,0,JohnRobertsI,John N. Roberts III
+395,396,Darden Restaurants,Eugene Lee ,0,EugeneLee,Eugene I. Lee Jr.
+396,397,Yum China Holdings,Joey Wat,1,JoeyWat,Joey Wat
+397,398,Blackstone Group,Stephen Schwarzman,0,StephenSchwarzman,Stephen A. Schwarzman
+398,399,Berry Global Group,Thomas Salmon,0,ThomasSalmon,Thomas E. Salmon
+399,400,Builders FirstSource,Chad Crow,0,ChadCrow,M. Chad Crow
+400,401,Activision Blizzard,Robert Kotick,0,RobertKotick,Robert A. Kotick
+401,402,JetBlue Airways,Robin Hayes,0,RobinHayes,Robin Hayes
+402,403,Amphenol,Adam Norwitt,0,AdamNorwitt,R. Adam Norwitt
+403,404,A-Mark Precious Metals,Gregory Roberts,0,GregoryRoberts,Gregory N. Roberts
+404,405,Spirit AeroSystems Holdings,Thomas Gentile I,0,ThomasGentileI,Thomas C. Gentile III
+405,406,R.R. Donnelley & Sons,Daniel Knotts,0,DanielKnotts,Daniel L. Knotts
+406,407,Harris,William Brown,0,WilliamBrown,William M. Brown
+407,408,Expeditors Intl. of Washington,Jeffrey Musser,0,JeffreyMusser,Jeffrey S. Musser
+408,409,Discovery,David Zaslav,0,DavidZaslav,David M. Zaslav
+409,410,Owens-Illinois,Andres Lopez,0,AndresLopez,Andres A. Lopez
+410,411,Sanmina,Robert Eulau,0,RobertEulau,Robert K. Eulau
+411,412,KeyCorp,Beth Mooney,1,BethMooney,Beth Mooney
+412,413,American Financial Group,Carl Lindner lll/Craig Lindner,0,CarlLindnerlll/CraigLindner,Carl H. Lindner lll/S. Craig Lindner
+413,414,Oshkosh,Wilson Jones,0,WilsonJones,Wilson R. Jones
+414,415,Rockwell Collins,Robert Ortberg,0,RobertOrtberg,Robert K. Ortberg
+415,416,Kindred Healthcare,Benjamin Breier,0,BenjaminBreier,Benjamin A. Breier
+416,417,Insight Enterprises,Kenneth Lamneck,0,KennethLamneck,Kenneth T. Lamneck
+417,418,Dr Pepper Snapple Group,Larry Young,0,LarryYoung,Larry D. Young
+418,419,American Tower,James Taiclet ,0,JamesTaiclet,James D. Taiclet Jr.
+419,420,Fortive,James Lico,0,JamesLico,James A. Lico
+420,421,Ralph Lauren,Patrice Louvet,0,PatriceLouvet,Patrice Louvet
+421,422,HRG Group,Joseph Steinberg,0,JosephSteinberg,Joseph S. Steinberg
+422,423,Ascena Retail Group,David Jaffe,0,DavidJaffe,David R. Jaffe
+423,424,United Rentals,Michael Kneeland,0,MichaelKneeland,Michael J. Kneeland
+424,425,Caseys General Stores,Terry Handley,0,TerryHandley,Terry W. Handley
+425,426,Graybar Electric,Kathleen Mazzarella,1,KathleenMazzarella,Kathleen Mazzarella
+426,427,Avery Dennison,Mitchell Butier,0,MitchellButier,Mitchell R. Butier
+427,428,MasTec,Jose Mas,0,JoseMas,Jose R. Mas
+428,429,CMS Energy,Patti Poppe,1,PattiPoppe,Patti Poppe
+429,430,HD Supply Holdings,Joseph DeAngelo,0,JosephDeAngelo,Joseph J. DeAngelo
+430,431,Raymond James Financial,Paul Reilly,0,PaulReilly,Paul C. Reilly
+431,432,NCR,Michael Hayford,0,MichaelHayford,Michael D. Hayford
+432,433,Hanesbrands,Gerald Evans ,0,GeraldEvans,Gerald W. Evans Jr.
+433,434,Asbury Automotive Group,David Hult,0,DavidHult,David W. Hult
+434,435,Citizens Financial Group,Bruce Van Saun,0,BruceVanSaun,Bruce W. Van Saun
+435,436,Packaging Corp. of America,Mark Kowlzan,0,MarkKowlzan,Mark W. Kowlzan
+436,437,Alleghany,Weston Hicks,0,WestonHicks,Weston M. Hicks
+437,438,Apache,John Christmann ,0,JohnChristmann,John J. Christmann IV
+438,439,Dillards,William Dillard ,0,WilliamDillard,William T. Dillard II
+439,440,Assurant,Alan Colberg,0,AlanColberg,Alan B. Colberg
+440,441,Franklin Resources,Gregory Johnson,0,GregoryJohnson,Gregory E. Johnson
+441,442,Owens Corning,Michael Thaman,0,MichaelThaman,Michael H. Thaman
+442,443,Motorola Solutions,Gregory Brown,0,GregoryBrown,Gregory Q. Brown
+443,444,NVR,Paul Saville,0,PaulSaville,Paul C. Saville
+444,445,Rockwell Automation,Blake Moret,0,BlakeMoret,Blake D. Moret
+445,446,TreeHouse Foods,Steven Oakland,0,StevenOakland,Steven Oakland
+446,447,Wynn Resorts,Matthew Maddox,0,MatthewMaddox,Matthew O. Maddox
+447,448,Olin,John Fischer,0,JohnFischer,John E. Fischer
+448,449,American Axle & Manufacturing,David Dauch,0,DavidDauch,David C. Dauch
+449,450,Old Republic International,Aldo Zucaro,0,AldoZucaro,Aldo C. Zucaro
+450,451,Chemours,Mark Vergnano,0,MarkVergnano,Mark P. Vergnano
+451,452,iHeartMedia,Robert Pittman,0,RobertPittman,Robert W. Pittman
+452,453,Ameren,Warner Baxter,0,WarnerBaxter,Warner L. Baxter
+453,454,Arthur J. Gallagher,Patrick Gallagher ,0,PatrickGallagher,J. Patrick Gallagher Jr.
+454,455,Celanese,Lori Ryerkerk,1,LoriRyerkerk,Lori Ryerkerk
+455,456,Sealed Air,Edward Doheny ,0,EdwardDoheny,Edward L. Doheny II
+456,457,UGI,John Walsh,0,JohnWalsh,John L. Walsh
+457,458,Realogy Holdings,Ryan Schneider,0,RyanSchneider,Ryan M. Schneider
+458,459,Burlington Stores,Thomas Kingsbury,0,ThomasKingsbury,Thomas A. Kingsbury
+459,460,Regions Financial,O.Grayson Hall ,0,O.GraysonHall,O.B. Grayson Hall Jr.
+460,461,AK Steel Holding,Roger Newport,0,RogerNewport,Roger K. Newport
+461,462,Securian Financial Group,Christopher Hilger,0,ChristopherHilger,Christopher M. Hilger
+462,463,S& P Global,Douglas Peterson,0,DouglasPeterson,Douglas L. Peterson
+463,464,Markel,Thomas Gayner/Richard Whitt I,0,ThomasGayner/RichardWhittI,Thomas S. Gayner/Richard R. Whitt III
+464,465,TravelCenters of America,Andrew Rebholz,0,AndrewRebholz,Andrew J. Rebholz
+465,466,Conduent,Ashok Vemuri,0,AshokVemuri,Ashok Vemuri
+466,467,M& T Bank Corp.,Renï¿½ Jones,0,Renï¿½Jones,Renï¿½ F. Jones
+467,468,Clorox,Benno Dorer,0,BennoDorer,Benno O. Dorer
+468,469,AmTrust Financial Services,Barry Zyskind,0,BarryZyskind,Barry D. Zyskind
+469,470,KKR,Henry Kravis/George Roberts,0,HenryKravis/GeorgeRoberts,Henry R. Kravis/George R. Roberts
+470,471,Ulta Beauty,Mary Dilon,1,MaryDilon,Mary Dilon
+471,472,Yum Brands,Greg Creed,0,GregCreed,Greg Creed
+472,473,Regeneron Pharmaceuticals,Leonard Schleifer,0,LeonardSchleifer,Leonard S. Schleifer
+473,474,Windstream Holdings,Anthony Thomas,0,AnthonyThomas,Anthony W. Thomas
+474,475,Magellan Health,Barry Smith,0,BarrySmith,Barry M. Smith
+475,476,Western & Southern Financial,John Barrett,0,JohnBarrett,John F. Barrett
+476,477,Intercontinental Exchange,Jeffrey Sprecher,0,JeffreySprecher,Jeffrey C. Sprecher
+477,478,Ingredion,James Zallie,0,JamesZallie,James P. Zallie
+478,479,Wyndham Destinations,Michael Brown,0,MichaelBrown,Michael D. Brown
+479,480,Toll Brothers,Douglas Yearley ,0,DouglasYearley,Douglas C. Yearley Jr.
+480,481,Seaboard,Steven Bresky,0,StevenBresky,Steven J. Bresky
+481,482,Booz Allen Hamilton,Horacio Rozanski,0,HoracioRozanski,Horacio D. Rozanski
+482,483,First American Financial,Dennis Gilmore,0,DennisGilmore,Dennis J. Gilmore
+483,484,Cincinnati Financial,Steven Johnston,0,StevenJohnston,Steven J. Johnston
+484,485,Avon Products,Jan Zijderveld,0,JanZijderveld,Jan Zijderveld
+485,486,Northern Trust,Michael O'Grady,0,MichaelO'Grady,Michael G. O'Grady
+486,487,Fiserv,Jeffery Yabuki,0,JefferyYabuki,Jeffery W. Yabuki
+487,488,Harley-Davidson,Matthew Levatich,0,MatthewLevatich,Matthew S. Levatich
+488,489,Cheniere Energy,Jack Fusco,0,JackFusco,Jack A. Fusco
+489,490,Patterson,Mark Walchirk,0,MarkWalchirk,Mark S. Walchirk
+490,491,Peabody Energy,Glenn Kellow,0,GlennKellow,Glenn L. Kellow
+491,492,ON Semiconductor,Keith Jackson,0,KeithJackson,Keith D. Jackson
+492,493,Simon Property Group,David Simon,0,DavidSimon,David E. Simon
+493,494,Western Union,Hikmet Ersek,0,HikmetErsek,Hikmet Ersek
+494,495,NetApp,George Kurian,0,GeorgeKurian,George Kurian
+495,496,Polaris Industries,Scott Wine,0,ScottWine,Scott W. Wine
+496,497,Pioneer Natural Resources,Timothy Dove,0,TimothyDove,Timothy L. Dove
+497,498,ABM Industries,Scott Salmirs,0,ScottSalmirs,Scott B. Salmirs
+498,499,Vistra Energy,Curtis Morgan,0,CurtisMorgan,Curtis A. Morgan
+499,500,Cintas,Scott Farmer,0,ScottFarmer,Scott D. Farmer
+500,501,Hess,John Hess,0,JohnHess,John B. Hess
+501,502,Host Hotels & Resorts,James Risoleo,0,JamesRisoleo,James F. Risoleo
+502,503,Kelly Services,George Corona,0,GeorgeCorona,George S. Corona
+503,504,Genesis Healthcare,George Hager ,0,GeorgeHager,George V. Hager Jr.
+504,505,Michaels Cos.,Carl Rubin,0,CarlRubin,Carl S. Rubin
+505,506,Advanced Micro Devices,Lisa Su,1,LisaSu,Lisa Su
+506,507,Zoetis,Juan Ramï¿½n Alaix,0,JuanRamï¿½nAlaix,Juan Ramï¿½n Alaix
+507,508,Williams-Sonoma,Laura Alber,1,LauraAlber,Laura Alber
+508,509,Fortune Brands Home & Security,Christopher Klein,0,ChristopherKlein,Christopher J. Klein
+509,510,Big Lots,Lisa Bachmann,0,LisaBachmann,Lisa M. Bachmann
+510,511,Robert Half International,Harold Messmer ,0,HaroldMessmer,Harold M. Messmer Jr.
+511,512,Post Holdings,Robert Vitale,0,RobertVitale,Robert V. Vitale
+512,513,Hasbro,Brian Goldner,0,BrianGoldner,Brian D. Goldner
+513,514,Hanover Insurance Group,John Roche,0,JohnRoche,John C. Roche
+514,515,Navient,John Remondi,0,JohnRemondi,John F. Remondi
+515,516,Intuit,Brad Smith,0,BradSmith,Brad D. Smith
+516,517,Domtar,John Williams,0,JohnWilliams,John D. Williams
+517,518,Marathon Oil,Lee Tillman,0,LeeTillman,Lee M. Tillman
+518,519,Cerner,Brent Shafer,0,BrentShafer,D. Brent Shafer
+519,520,Analog Devices,Vincent Roche,0,VincentRoche,Vincent T. Roche
+520,521,Telephone & Data Systems,LeRoy Carlson ,0,LeRoyCarlson,LeRoy T. Carlson Jr.
+521,522,Essendant,Richard Phillips,0,RichardPhillips,Richard D. Phillips
+522,523,Sonoco Products,Robert Tiede,0,RobertTiede,Robert C. Tiede
+523,524,Juniper Networks,Rami Rahim,0,RamiRahim,Rami Rahim
+524,525,Commercial Metals,Barbara Smith,0,BarbaraSmith,Barbara R. Smith
+525,526,CSRA,Lawrence Prior I,0,LawrencePriorI,Lawrence B. Prior III
+526,527,Under Armour,Kevin Plank,0,KevinPlank,Kevin A. Plank
+527,528,RPM International,Frank Sullivan,0,FrankSullivan,Frank C. Sullivan
+528,529,Total System Services,Troy Woods,0,TroyWoods,M. Troy Woods
+529,530,Levi Strauss,Charles Bergh,0,CharlesBergh,Charles V. Bergh
+530,531,Brunswick,Mark Schwabero,0,MarkSchwabero,Mark D. Schwabero
+531,532,YRC Worldwide,Darren Hawkins,0,DarrenHawkins,Darren D. Hawkins
+532,533,Mattel,Ynon Kreiz,0,YnonKreiz,Ynon Kreiz
+533,534,FM Global,Thomas Lawson,0,ThomasLawson,Thomas A. Lawson
+534,535,NiSource,Joseph Hamrock,0,JosephHamrock,Joseph Hamrock
+535,536,Caesars Entertainment,Mark Frissora,0,MarkFrissora,Mark P. Frissora
+536,537,Electronic Arts,Andrew Wilson,0,AndrewWilson,Andrew Wilson
+537,538,Dynegy,Curtis Morgan,0,CurtisMorgan,Curtis A. Morgan
+538,539,McCormick,Lawrence Kurzius,0,LawrenceKurzius,Lawrence E. Kurzius
+539,540,T. Rowe Price,William Stromberg,0,WilliamStromberg,William J. Stromberg
+540,541,Orbital ATK,Blake Larson,0,BlakeLarson,Blake Larson
+541,542,Tutor Perini,Ronald Tutor,0,RonaldTutor,Ronald N. Tutor
+542,543,Brookdale Senior Living,Lucinda Baier,0,LucindaBaier,Lucinda M. Baier
+543,544,Huntington Bancshares,Stephen Steinour,0,StephenSteinour,Stephen D. Steinour
+544,545,Wayfair,Niraj Shah,0,NirajShah,Niraj S. Shah
+545,546,Rush Enterprises,Rush,0,Rush,W. M. Rush
+546,547,Xylem,Patrick Decker,0,PatrickDecker,Patrick K. Decker
+547,548,Neiman Marcus Group,Geoffroy van Raemdonck,0,GeoffroyvanRaemdonck,Geoffroy van Raemdonck
+548,549,Hyatt Hotels,Mark Hoplamazian,0,MarkHoplamazian,Mark S. Hoplamazian
+549,550,Sprouts Farmers Market,Amin Maredia,0,AminMaredia,Amin N. Maredia
+550,551,Diebold Nixdorf,Gerrard Schmid,0,GerrardSchmid,Gerrard B. Schmid
+551,552,Roper Technologies,Brian Jellison,0,BrianJellison,Brian D. Jellison
+552,553,Smart & Final Stores,David Hirz,0,DavidHirz,David G. Hirz
+553,554,CommScope Holding,Marvin Edwards ,0,MarvinEdwards,Marvin S. Edwards Jr.
+554,555,Tapestry,Victor Luis,0,VictorLuis,Victor Luis
+555,556,Diplomat Pharmacy,Brian Griffin,0,BrianGriffin,Brian Griffin
+556,557,Chipotle Mexican Grill,Brian Niccol,0,BrianNiccol,Brian R. Niccol
+557,558,Agilent Technologies,Michael McMullen,0,MichaelMcMullen,Michael R. McMullen
+558,559,Science Applications International,Anthony Moraco,0,AnthonyMoraco,Anthony J. Moraco
+559,560,MDU Resources Group,David Goodin,0,DavidGoodin,David L. Goodin
+560,561,Select Medical Holdings,David Chernow,0,DavidChernow,David S. Chernow
+561,562,Boise Cascade,Thomas Corrick,0,ThomasCorrick,Thomas K. Corrick
+562,563,National General Holdings,Barry Karfunkel,0,BarryKarfunkel,Barry Karfunkel
+563,564,SCANA,Jimmy Addison,0,JimmyAddison,Jimmy E. Addison
+564,565,Graphic Packaging Holding,Michael Doss,0,MichaelDoss,Michael P. Doss
+565,566,Fastenal,Daniel Florness,0,DanielFlorness,Daniel L. Florness
+566,567,Schneider National,Christopher Lofgren,0,ChristopherLofgren,Christopher B. Lofgren
+567,568,Laureate Education,Eilif Serck-Hanssen,0,EilifSerck-Hanssen,Eilif Serck-Hanssen
+568,569,Beacon Roofing Supply,Paul Isabella,0,PaulIsabella,Paul M. Isabella
+569,570,KB Home,Jeffrey Mezger,0,JeffreyMezger,Jeffrey T. Mezger
+570,571,Equinix,Peter Van Camp,0,PeterVanCamp,Peter F. Van Camp
+571,572,Terex,John Garrison ,0,JohnGarrison,John L. Garrison Jr.
+572,573,Crown Castle International,Jay Brown,0,JayBrown,Jay A. Brown
+573,574,CACI International,Kenneth Asbury,0,KennethAsbury,Kenneth Asbury
+574,575,Watsco,Albert Nahmad,0,AlbertNahmad,Albert H. Nahmad
+575,576,Coca-Cola Bottling,Frank Harrison I,0,FrankHarrisonI,J. Frank Harrison III
+576,577,Welltower,Thomas DeRosa,0,ThomasDeRosa,Thomas J. DeRosa
+577,578,ADT,Timothy Whall,0,TimothyWhall,Timothy J. Whall
+578,579,Ametek,David Zapico,0,DavidZapico,David A. Zapico
+579,580,CNO Financial Group,Gary Bhojwani,0,GaryBhojwani,Gary C. Bhojwani
+580,581,Camping World Holdings,Marcus Lemonis,0,MarcusLemonis,Marcus A. Lemonis
+581,582,LPL Financial Holdings,Dan Arnold,0,DanArnold,Dan H. Arnold
+582,583,Noble Energy,David Stover,0,DavidStover,David L. Stover
+583,584,Bloomin Brands,Elizabeth Smith,0,ElizabethSmith,Elizabeth A. Smith
+584,585,Moodys,Raymond McDaniel ,0,RaymondMcDaniel,Raymond W. McDaniel Jr.
+585,586,Symantec,Gregory Clark,0,GregoryClark,Gregory S. Clark
+586,587,Amkor Technology,Stephen Kelley,0,StephenKelley,Stephen D. Kelley
+587,588,Skechers U.S.A.,Robert Greenberg,0,RobertGreenberg,Robert Greenberg
+588,589,KBR,Stuart Bradie,0,StuartBradie,Stuart Bradie
+589,590,Tiffany,Alessandro Bogliolo,0,AlessandroBogliolo,Alessandro Bogliolo
+590,591,Torchmark,Gary Coleman/Larry Hutchison,0,GaryColeman/LarryHutchison,Gary L. Coleman/Larry M. Hutchison
+591,592,Broadridge Financial Solutions,Richard Daly,0,RichardDaly,Richard J. Daly
+592,593,Quad/Graphics,Joel Quadracci,0,JoelQuadracci,J. Joel Quadracci
+593,594,CF Industries Holdings,Anthony Will,0,AnthonyWill,W. Anthony Will
+594,595,Carlisle,Christian Koch,0,ChristianKoch,D. Christian Koch
+595,596,Silgan Holdings,Anthony Allott,0,AnthonyAllott,Anthony J. Allott
+596,597,Bemis,William Austen,0,WilliamAusten,William F. Austen
+597,598,CA,Michael Gregoire,0,MichaelGregoire,Michael P. Gregoire
+598,599,Hub Group,David Yeager,0,DavidYeager,David P. Yeager
+599,600,Worldpay,Charles Drucker/Philip E.Jansen,0,CharlesDrucker/PhilipE.Jansen,Charles D. Drucker/Philip E.R. Jansen
+600,601,Ingles Markets,James Lanning,0,JamesLanning,James W. Lanning
+601,602,Snap-on,Nicholas Pinchuk,0,NicholasPinchuk,Nicholas T. Pinchuk
+602,603,Dentsply Sirona,Donald Casey ,0,DonaldCasey,Donald M. Casey Jr.
+603,604,Calumet Specialty Products,Timothy Go,0,TimothyGo,Timothy Go
+604,605,Global Payments,Jeffrey Sloan,0,JeffreySloan,Jeffrey S. Sloan
+605,606,Encompass Health,Mark Tarr,0,MarkTarr,Mark J. Tarr
+606,607,Martin Marietta Materials,Howard Nye,0,HowardNye,C. Howard Nye
+607,608,Nasdaq,Adena Friedman,0,AdenaFriedman,Adena T. Friedman
+608,609,Leggett & Platt,Karl Glassman,0,KarlGlassman,Karl G. Glassman
+609,610,Universal Forest Products,Matthew Missad,0,MatthewMissad,Matthew J. Missad
+610,611,Sally Beauty Holdings,Christian Brickman,0,ChristianBrickman,Christian A. Brickman
+611,612,Flowers Foods,Allen Shiver,0,AllenShiver,Allen L. Shiver
+612,613,Barnes & Noble,Demos Parneros,0,DemosParneros,Demos Parneros
+613,614,American Equity Investment Life,John Matovina,0,JohnMatovina,John M. Matovina
+614,615,Vulcan Materials,Thomas Hill,0,ThomasHill,J. Thomas Hill
+615,616,Taylor Morrison Home,Sheryl Palmer,0,SherylPalmer,Sheryl D. Palmer
+616,617,Westinghouse Air Brake,Raymond Betler,0,RaymondBetler,Raymond T. Betler
+617,618,Crestwood Equity Partners,Robert G Phillips,0,RobertGPhillips,Robert G Phillips
+618,619,Iron Mountain,William Meaney,0,WilliamMeaney,William L. Meaney
+619,620,Lennox International,Todd Bluedorn,0,ToddBluedorn,Todd M. Bluedorn
+620,621,General Cable,Massimo Battaini,0,MassimoBattaini,Massimo Battaini
+621,622,American Eagle Outfitters,Jay Schottenstein,0,JaySchottenstein,Jay L. Schottenstein
+622,623,Church & Dwight,Matthew Farrell,0,MatthewFarrell,Matthew T. Farrell
+623,624,Platform Specialty Products,Rakesh Sachdev,0,RakeshSachdev,Rakesh Sachdev
+624,625,JELD-WEN Holding,Gary Michel,0,GaryMichel,Gary S. Michel
+625,626,OneMain Holdings,Jay Levine,0,JayLevine,Jay N. Levine
+626,627,Colfax,Matthew Trerotola,0,MatthewTrerotola,Matthew L. Trerotola
+627,628,Zebra Technologies,Anders Gustafsson,0,AndersGustafsson,Anders Gustafsson
+628,629,Andersons,Patrick Bowe,0,PatrickBowe,Patrick E. Bowe
+629,630,TD Ameritrade Holding,Timothy Hockey,0,TimothyHockey,Timothy D. Hockey
+630,631,Carlyle Group,Kewsong Lee/Glenn Youngkin,0,KewsongLee/GlennYoungkin,Kewsong Lee/Glenn A. Youngkin
+631,632,Hubbell,David Nord,0,DavidNord,David G. Nord
+632,633,Trinity Industries,Timothy Wallace,0,TimothyWallace,Timothy R. Wallace
+633,634,Darling Ingredients,Randall Stuewe,0,RandallStuewe,Randall C. Stuewe
+634,635,Flowserve,Scott Rowe,0,ScottRowe,R. Scott Rowe
+635,636,Antero Resources,Paul Rady,0,PaulRady,Paul M. Rady
+636,637,Skyworks Solutions,Liam Griffin,0,LiamGriffin,Liam K. Griffin
+637,638,Landstar System,James Gattoni,0,JamesGattoni,James B. Gattoni
+638,639,Buckeye Partners,Clark Smith,0,ClarkSmith,Clark C. Smith
+639,640,MRC Global,Andrew Lane,0,AndrewLane,Andrew R. Lane
+640,641,CME Group,Terrence Duffy,0,TerrenceDuffy,Terrence A. Duffy
+641,642,Greif,Peter Watson,0,PeterWatson,Peter G. Watson
+642,643,Nexeo Solutions,David Bradley,0,DavidBradley,David A. Bradley
+643,644,Cooper-Standard Holdings,Jeffrey Edwards,0,JeffreyEdwards,Jeffrey S. Edwards
+644,645,Urban Outfitters,Richard Hayne,0,RichardHayne,Richard A. Hayne
+645,646,LSC Communications,Thomas Quinlan I,0,ThomasQuinlanI,Thomas J. Quinlan III
+646,647,Sabre,Sean Menke,0,SeanMenke,Sean E. Menke
+647,648,Green Plains,Todd Becker,0,ToddBecker,Todd A. Becker
+648,649,Hexion,Craig Rogerson,0,CraigRogerson,Craig A. Rogerson
+649,650,Stericycle,Charles Alutto,0,CharlesAlutto,Charles A. Alutto
+650,651,Warner Music Group,Stephen Cooper,0,StephenCooper,Stephen F. Cooper
+651,652,Ventas,Debra Cafaro,0,DebraCafaro,Debra A. Cafaro
+652,653,ScanSource,Michael Baur,0,MichaelBaur,Michael L. Baur
+653,654,Pinnacle West Capital,Donald Brandt,0,DonaldBrandt,Donald E. Brandt
+654,655,Scripps Networks Interactive,David Zaslav,0,DavidZaslav,David M. Zaslav
+655,656,Alexion Pharmaceuticals,Ludwig Hantson,0,LudwigHantson,Ludwig N. Hantson
+656,657,Pitney Bowes,Marc Lautenbach,0,MarcLautenbach,Marc B. Lautenbach
+657,658,CIT Group,Ellen Alemany,0,EllenAlemany,Ellen R. Alemany
+658,659,Country Financial,Kurt Bock,0,KurtBock,Kurt F. Bock
+659,660,CUNA Mutual Group,Robert Trunzo,0,RobertTrunzo,Robert N. Trunzo
+660,661,Triumph Group,Daniel Crowley,0,DanielCrowley,Daniel J. Crowley
+661,662,TransDigm Group,Kevin Stein,0,KevinStein,Kevin M. Stein
+662,663,Allegheny Technologies,Richard Harshman,0,RichardHarshman,Richard J. Harshman
+663,664,Resolute Forest Products,Yves Laflamme,0,YvesLaflamme,Yves Laflamme
+664,665,Acuity Brands,Vernon Nagel,0,VernonNagel,Vernon J. Nagel
+665,666,Abercrombie & Fitch,Fran Horowitz-Bonadies,0,FranHorowitz-Bonadies,Fran Horowitz-Bonadies
+666,667,KLA-Tencor,Richard Wallace,0,RichardWallace,Richard P. Wallace
+667,668,Weis Markets,Jonathan Weis,0,JonathanWeis,Jonathan H. Weis
+668,669,Puget Energy,Kimberly Harris,0,KimberlyHarris,Kimberly J. Harris
+669,670,Mednax,Roger Medel,0,RogerMedel,Roger J. Medel
+670,671,Kar Auction Services,James Hallett,0,JamesHallett,James P. Hallett
+671,672,PolyOne,Robert Patterson,0,RobertPatterson,Robert M. Patterson
+672,673,FMC,Pierre Brondeau,0,PierreBrondeau,Pierre R. Brondeau
+673,674,Edwards Lifesciences,Michael Mussallem,0,MichaelMussallem,Michael A. Mussallem
+674,675,Microchip Technology,Steve Sanghi,0,SteveSanghi,Steve Sanghi
+675,676,Amerco,Edward Shoen,0,EdwardShoen,Edward J. Shoen
+676,677,Mercury General,Gabriel Tirador,0,GabrielTirador,Gabriel Tirador
+677,678,American National Insurance,James Pozzi,0,JamesPozzi,James E. Pozzi
+678,679,Carters,Michael Casey,0,MichaelCasey,Michael D. Casey
+679,680,International Flavors & Fragrances,Andreas Fibig,0,AndreasFibig,Andreas Fibig
+680,681,Aarons,John Robinson I,0,JohnRobinsonI,John W. Robinson III
+681,682,Alliant Energy,Patricia Kampling,0,PatriciaKampling,Patricia L. Kampling
+682,683,EQT,David Porges,0,DavidPorges,David L. Porges
+683,684,Monster Beverage,Rodney Sacks,0,RodneySacks,Rodney C. Sacks
+684,685,BMC Stock Holdings,David Keltner,0,DavidKeltner,David L. Keltner
+685,686,Ryerson Holding,Edward Lehner,0,EdwardLehner,Edward J. Lehner
+686,687,Equifax,Mark Begor,0,MarkBegor,Mark W. Begor
+687,688,Regal Beloit,Mark Gliebe,0,MarkGliebe,Mark J. Gliebe
+688,689,Old Dominion Freight Line,Greg Gantt,0,GregGantt,Greg C. Gantt
+689,690,American Water Works,Susan Story,0,SusanStory,Susan N. Story
+690,691,BGC Partners,Howard Lutnick,0,HowardLutnick,Howard W. Lutnick
+691,692,Brinks,Douglas Pertz,0,DouglasPertz,Douglas A. Pertz
+692,692,Meritor,Douglas Pertz,0,DouglasPertz,Douglas A. Pertz
+693,694,Sentry Insurance Group,Peter McPartland,0,PeterMcPartland,Peter G. McPartland
+694,695,Sanderson Farms,Joe Sanderson ,0,JoeSanderson,Joe F. Sanderson Jr.
+695,696,KapStone Paper & Packaging,Matthew Kaplan,0,MatthewKaplan,Matthew Kaplan
+696,697,Gartner,Eugene Hall,0,EugeneHall,Eugene A. Hall
+697,698,IAC/InterActiveCorp,Joseph Levin,0,JosephLevin,Joseph Levin
+698,699,Tailored Brands,Douglas Ewert,0,DouglasEwert,Douglas S. Ewert
+699,700,WABCO Holdings,Jacques Esculier,0,JacquesEsculier,Jacques Esculier
+700,701,Insperity,Paul Sarvadi,0,PaulSarvadi,Paul J. Sarvadi
+701,702,Comerica,Ralph Babb ,0,RalphBabb,Ralph W. Babb Jr.
+702,703,TriNet Group,Burton Goldfield,0,BurtonGoldfield,Burton M. Goldfield
+703,704,Avaya Holdings,James Chirico ,0,JamesChirico,James M. Chirico Jr.
+704,705,Ashland Global Holdings,William Wulfsohn,0,WilliamWulfsohn,William A. Wulfsohn
+705,706,Meritage Homes,Steven Hilton,0,StevenHilton,Steven J. Hilton
+706,707,SkyWest,Russell Childs,0,RussellChilds,Russell A. Childs
+707,708,USG,Jennifer Scanlon,0,JenniferScanlon,Jennifer F. Scanlon
+708,709,Southwestern Energy,William Way,0,WilliamWay,William J. Way
+709,710,Keysight Technologies,Ronald Nersesian,0,RonaldNersesian,Ronald S. Nersesian
+710,711,Regal Entertainment Group,Nisan Cohen,0,NisanCohen,Nisan Cohen
+711,712,Mutual of America Life Insurance,John Greed,0,JohnGreed,John R. Greed
+712,713,Paychex,Martin Mucci,0,MartinMucci,Martin Mucci
+713,714,Brinker International,Wyman Roberts,0,WymanRoberts,Wyman T. Roberts
+714,715,Penn National Gaming,Timothy Wilmott,0,TimothyWilmott,Timothy J. Wilmott
+715,716,Gannett,Robert Dickey,0,RobertDickey,Robert J. Dickey
+716,717,Visteon,Sachin Lawande,0,SachinLawande,Sachin S. Lawande
+717,718,Pinnacle Foods,Mark Clouse,0,MarkClouse,Mark A. Clouse
+718,719,Intuitive Surgical,Gary Guthart,0,GaryGuthart,Gary S. Guthart
+719,720,Continental Resources,Harold Hamm,0,HaroldHamm,Harold G. Hamm
+720,721,Service Corp. International,Thomas Ryan,0,ThomasRyan,Thomas L. Ryan
+721,722,Scientific Games,Barry Cottle,0,BarryCottle,Barry L. Cottle
+722,723,Albemarle,Luther Kissam ,0,LutherKissam,Luther C. Kissam IV
+723,724,Atmos Energy,Michael Haefner,0,MichaelHaefner,Michael E. Haefner
+724,725,Hologic,Stephen MacMillan,0,StephenMacMillan,Stephen P. MacMillan
+725,726,H& R Block,Jeffrey Jones ,0,JeffreyJones,Jeffrey J. Jones II
+726,727,Qorvo,Robert Bruggeworth,0,RobertBruggeworth,Robert A. Bruggeworth
+727,728,Steelcase,James Keane,0,JamesKeane,James P. Keane
+728,729,Univision Communications,Vincent Sadusky,0,VincentSadusky,Vincent Sadusky
+729,730,Worthington Industries,John McConnell,0,JohnMcConnell,John P. McConnell
+730,731,Timken,Richard Kyle,0,RichardKyle,Richard G. Kyle
+731,732,A.O. Smith,Ajita Rajendra,0,AjitaRajendra,Ajita G. Rajendra
+732,733,PriceSmart,Jose Luis Laparte,0,JoseLuisLaparte,Jose Luis Laparte
+733,734,Stifel Financial,Ronald Kruszewski,0,RonaldKruszewski,Ronald J. Kruszewski
+734,735,Brown-Forman,Paul Varga,0,PaulVarga,Paul C. Varga
+735,736,Cinemark Holdings,Mark Zoradi,0,MarkZoradi,Mark Zoradi
+736,737,Granite Construction,James Roberts,0,JamesRoberts,James H. Roberts
+737,738,Dycom Industries,Steven Nielsen,0,StevenNielsen,Steven E. Nielsen
+738,739,Clean Harbors,Alan McKim,0,AlanMcKim,Alan S. McKim
+739,740,First Solar,Mark Widmar,0,MarkWidmar,Mark R. Widmar
+740,741,Scotts Miracle-Gro,James Hagedorn,0,JamesHagedorn,James S. Hagedorn
+741,742,Cracker Barrel Old Country Store,Sandra Cochran,0,SandraCochran,Sandra B. Cochran
+742,743,Triple-S Management,Roberto Garcia-Rodriguez,0,RobertoGarcia-Rodriguez,Roberto Garcia-Rodriguez
+743,744,First Republic Bank,James Herbert ,0,JamesHerbert,James H. Herbert II
+744,745,ServiceMaster Global Holdings,Nikhil Varty,0,NikhilVarty,Nikhil Varty
+745,746,PC Connection,Timothy McGrath,0,TimothyMcGrath,Timothy J. McGrath
+746,747,Genesco,Robert Dennis,0,RobertDennis,Robert J. Dennis
+747,748,Medical Mutual of Ohio,Richard Chiricosta,0,RichardChiricosta,Richard A. Chiricosta
+748,749,MSC Industrial Direct,Erik Gershwind,0,ErikGershwind,Erik Gershwind
+749,750,Legg Mason,Joseph Sullivan,0,JosephSullivan,Joseph A. Sullivan
+750,751,Hyster-Yale Materials Handling,Alfred Rankin ,0,AlfredRankin,Alfred M. Rankin Jr.
+751,752,Apollo Global Management,Leon Black,0,LeonBlack,Leon D. Black
+752,753,Citrix Systems,David Henshall,0,DavidHenshall,David J. Henshall
+753,754,Acadia Healthcare,Joey Jacobs,0,JoeyJacobs,Joey A. Jacobs
+754,755,Varian Medical Systems,Dow Wilson,0,DowWilson,Dow R. Wilson
+755,756,Groupon,Rich Williams,0,RichWilliams,Rich Williams
+756,757,Aleris,Sean Stack,0,SeanStack,Sean M. Stack
+757,758,Sprague Resources,David Glendon,0,DavidGlendon,David C. Glendon
+758,759,Cooper Tire & Rubber,Bradley Hughes,0,BradleyHughes,Bradley E. Hughes
+759,760,Hain Celestial Group,Irwin Simon,0,IrwinSimon,Irwin D. Simon
+760,761,Penn Mutual Life Insurance,Eileen McDonnell,0,EileenMcDonnell,Eileen C. McDonnell
+761,762,Colony NorthStar,Richard Saltzman,0,RichardSaltzman,Richard B. Saltzman
+762,763,ArcBest,Judy McReynolds,0,JudyMcReynolds,Judy R. McReynolds
+763,764,Presidio,Robert Cagnazzi,0,RobertCagnazzi,Robert Cagnazzi
+764,765,TRI Pointe Group,Douglas Bauer,0,DouglasBauer,Douglas F. Bauer
+765,766,Annaly Capital Management,Kevin Keyes,0,KevinKeyes,Kevin G. Keyes
+766,767,G-III Apparel Group,Morris Goldfarb,0,MorrisGoldfarb,Morris Goldfarb
+767,768,AMC Networks,Joshua Sapan,0,JoshuaSapan,Joshua W. Sapan
+768,769,Enable Midstream Partners,Rodney Sailor,0,RodneySailor,Rodney J. Sailor
+769,770,Ciena,Gary Smith,0,GarySmith,Gary B. Smith
+770,771,DSW,Roger Rawlins,0,RogerRawlins,Roger L. Rawlins
+771,772,Convergys,Andrea Ayers,0,AndreaAyers,Andrea J. Ayers
+772,773,Park Hotels & Resorts,Thomas Baltimore ,0,ThomasBaltimore,Thomas J. Baltimore Jr.
+773,774,Pool,Manuel Perez de la Mesa,0,ManuelPerezdelaMesa,Manuel J. Perez de la Mesa
+774,775,Fossil Group,Kosta Kartsotis,0,KostaKartsotis,Kosta N. Kartsotis
+775,776,Dominos Pizza,Patrick Doyle,0,PatrickDoyle,J. Patrick Doyle
+776,777,Crane,Max Mitchell,0,MaxMitchell,Max H. Mitchell
+777,778,Caleres,Diane Sullivan,0,DianeSullivan,Diane M. Sullivan
+778,779,Tempur Sealy International,Scott Thompson,0,ScottThompson,Scott L. Thompson
+779,780,Tetra Tech,Dan Batrack,0,DanBatrack,Dan L. Batrack
+780,781,Illumina,Francis deSouza,0,FrancisdeSouza,Francis A. deSouza
+781,782,Valmont Industries,Stephen Kaniewski,0,StephenKaniewski,Stephen G. Kaniewski
+782,783,Hill-Rom Holdings,John Groetelaars,0,JohnGroetelaars,John P. Groetelaars
+783,784,Unisys,Peter Altabef,0,PeterAltabef,Peter A. Altabef
+784,785,Zions Bancorp.,Harris Simmons,0,HarrisSimmons,Harris H. Simmons
+785,786,Sinclair Broadcast Group,Christopher Ripley,0,ChristopherRipley,Christopher S. Ripley
+786,787,Louisiana-Pacific,Bradley Southern,0,BradleySouthern,W. Bradley Southern
+787,788,Mettler-Toledo International,Olivier Filliol,0,OlivierFilliol,Olivier A. Filliol
+788,789,Synopsys,Aart de Geus/Chi-Foon Chan,0,AartdeGeus/Chi-FoonChan,Aart J. de Geus/Chi-Foon Chan
+789,790,Kemper,Joseph Lacher ,0,JosephLacher,Joseph P. Lacher Jr.
+790,791,Cabot,Sean Keohane,0,SeanKeohane,Sean D. Keohane
+791,792,Great Plains Energy,Terry Bassham,0,TerryBassham,Terry D. Bassham
+792,793,Rent-A-Center,Mitchell Fadel,0,MitchellFadel,Mitchell E. Fadel
+793,794,Hawaiian Holdings,Peter Ingram,0,PeterIngram,Peter R. Ingram
+794,795,Revlon,Debra Perelman,0,DebraPerelman,Debra G. Perelman
+795,796,Syneos Health,Alistair MacDonald,0,AlistairMacDonald,Alistair MacDonald
+796,797,Public Storage,Ronald Havner ,0,RonaldHavner,Ronald L. Havner Jr.
+797,798,TTM Technologies,Thomas Edman,0,ThomasEdman,Thomas T. Edman
+798,799,Vectren,Carl Chapman,0,CarlChapman,Carl L. Chapman
+799,800,Trimble,Steven Berglund,0,StevenBerglund,Steven W. Berglund
+800,801,NOW,Robert Workman,0,RobertWorkman,Robert R. Workman
+801,802,Spirit Airlines,Robert Fornaro,0,RobertFornaro,Robert L. Fornaro
+802,803,ASGN,Peter Dameris,0,PeterDameris,Peter T. Dameris
+803,804,Lincoln Electric Holdings,Christopher Mapes,0,ChristopherMapes,Christopher L. Mapes
+804,805,Prologis,Hamid Moghadam,0,HamidMoghadam,Hamid R. Moghadam
+805,806,Range Resources,Jeffrey Ventura,0,JeffreyVentura,Jeffrey L. Ventura
+806,807,Teledyne Technologies,Robert Mehrabian,0,RobertMehrabian,Robert Mehrabian
+807,808,Vishay Intertechnology,Gerald Paul,0,GeraldPaul,Gerald Paul
+808,809,Boston Properties,Owen Thomas,0,OwenThomas,Owen D. Thomas
+809,810,Applied Industrial Technologies,Neil Schrimsher,0,NeilSchrimsher,Neil A. Schrimsher
+810,811,Graham Holdings,Timothy Oï¿½Shaughnessy,0,TimothyOï¿½Shaughnessy,Timothy J. Oï¿½Shaughnessy
+811,812,Amica Mutual Insurance,Robert DiMuccio,0,RobertDiMuccio,Robert A. DiMuccio
+812,813,Concho Resources,Timothy Leach,0,TimothyLeach,Timothy A. Leach
+813,814,ITT,Denise Ramos,0,DeniseRamos,Denise L. Ramos
+814,815,Kansas City Southern,Patrick Ottensmeyer,0,PatrickOttensmeyer,Patrick J. Ottensmeyer
+815,816,MDC Holdings,Larry Mizel,0,LarryMizel,Larry A. Mizel
+816,817,Evergy,Terry Bassham,0,TerryBassham,Terry D. Bassham
+817,818,Pinnacle Entertainment,Anthony Sanfilippo,0,AnthonySanfilippo,Anthony M. Sanfilippo
+818,819,Hawaiian Electric Industries,Constance Lau,0,ConstanceLau,Constance H. Lau
+819,820,TEGNA,David Lougee,0,DavidLougee,David T. Lougee
+820,821,Southwest Gas Holdings,John Hester,0,JohnHester,John P. Hester
+821,822,Vista Outdoor,Christopher Metz,0,ChristopherMetz,Christopher T. Metz
+822,823,Bon-Ton Stores,William Tracy,0,WilliamTracy,William X. Tracy
+823,824,Super Micro Computer,Charles Liang,0,CharlesLiang,Charles Liang
+824,825,Plexus,Todd Kelsey,0,ToddKelsey,Todd P. Kelsey
+825,826,TrueBlue,Steven Cooper,0,StevenCooper,Steven C. Cooper
+826,827,Magellan Midstream Partners,Michael Mears,0,MichaelMears,Michael N. Mears
+827,828,Toro,Richard Olson,0,RichardOlson,Richard M. Olson
+828,829,Akamai Technologies,Thomson Leighton,0,ThomsonLeighton,F. Thomson Leighton
+829,830,Moog,John Scannell,0,JohnScannell,John R. Scannell
+830,831,Vertex Pharmaceuticals,Jeffrey Leiden,0,JeffreyLeiden,Jeffrey M. Leiden
+831,832,Equity Residential,David Neithercut,0,DavidNeithercut,David J. Neithercut
+832,833,Selective Insurance Group,Gregory Murphy,0,GregoryMurphy,Gregory E. Murphy
+833,834,AptarGroup,Stephan Tanda,0,StephanTanda,Stephan B. Tanda
+834,835,Benchmark Electronics,Paul Tufano,0,PaulTufano,Paul J. Tufano
+835,836,Columbia Sportswear,Timothy Boyle,0,TimothyBoyle,Timothy P. Boyle
+836,837,A. Schulman,Joseph Gingo,0,JosephGingo,Joseph M. Gingo
+837,838,Verso,Christopher DiSantis,0,ChristopherDiSantis,B. Christopher DiSantis
+838,839,Digital Realty Trust,William Stein,0,WilliamStein,A. William Stein
+839,840,GNC Holdings,Kenneth Martindale,0,KennethMartindale,Kenneth A. Martindale
+840,841,E*Trade Financial,Karl Roessner,0,KarlRoessner,Karl A. Roessner
+841,842,Hovnanian Enterprises,Ara Hovnanian,0,AraHovnanian,Ara K. Hovnanian
+842,843,Maximus,Bruce Caswell,0,BruceCaswell,Bruce L. Caswell
+843,844,Twitter,Jack Dorsey,0,JackDorsey,Jack Dorsey
+844,845,Par Pacific Holdings,William Pate,0,WilliamPate,William C. Pate
+845,846,Parexel International,Jamie Macdonald,0,JamieMacdonald,Jamie Macdonald
+846,847,RH,Gary Friedman,0,GaryFriedman,Gary G. Friedman
+847,848,Nexstar Media Group,Perry Sook,0,PerrySook,Perry A. Sook
+848,849,Knight-Swift Transportation Holdings,David Jackson,0,DavidJackson,David A. Jackson
+849,850,Red Hat,James Whitehurst,0,JamesWhitehurst,James M. Whitehurst
+850,851,Belden,John Stroup,0,JohnStroup,John S. Stroup
+851,852,Boyd Gaming,Keith Smith,0,KeithSmith,Keith E. Smith
+852,853,Primoris Services,David King,0,DavidKing,David L. King
+853,854,Gardner Denver,Vicente Reynal,0,VicenteReynal,Vicente Reynal
+854,855,Donaldson,Tod Carpenter,0,TodCarpenter,Tod E. Carpenter
+855,856,Party City Holdco,James Harrison,0,JamesHarrison,James M. Harrison
+856,857,J.Crew Group,James Brett,0,JamesBrett,James W. Brett
+857,858,EnerSys,David Shaffer,0,DavidShaffer,David M. Shaffer
+858,859,Guess,Victor Herrero,0,VictorHerrero,Victor Herrero
+859,860,Patterson-UTI Energy,William Hendricks ,0,WilliamHendricks,William A. Hendricks Jr.
+860,861,WGL Holdings,Terry McCallister,0,TerryMcCallister,Terry D. McCallister
+861,862,Wolverine World Wide,Blake Krueger,0,BlakeKrueger,Blake W. Krueger
+862,863,Xilinx,Victor Peng,0,VictorPeng,Victor Peng
+863,864,Vornado Realty Trust,Steven Roth,0,StevenRoth,Steven Roth
+864,865,Middleby,Selim Bassoul,0,SelimBassoul,Selim A. Bassoul
+865,866,MPM Holdings,John Boss,0,JohnBoss,John G. Boss
+866,867,Cleveland-Cliffs,Lourenco Goncalves,0,LourencoGoncalves,Lourenco C. Goncalves
+867,868,GGP,Sandeep Mathrani,0,SandeepMathrani,Sandeep Mathrani
+868,869,Cypress Semiconductor,Hassane El-Khoury,0,HassaneEl-Khoury,Hassane El-Khoury
+869,870,Arch Coal,John Eaves,0,JohnEaves,John W. Eaves
+870,871,GMS,Michael Callahan ,0,MichaelCallahan,G. Michael Callahan Jr.
+871,872,Waters,Christopher O'Connell,0,ChristopherO'Connell,Christopher J. O'Connell
+872,873,H.B. Fuller,James Owens,0,JamesOwens,James J. Owens
+873,874,Affiliated Managers Group,Nathaniel Dalton,0,NathanielDalton,Nathaniel Dalton
+874,875,PerkinElmer,Robert Friel,0,RobertFriel,Robert F. Friel
+875,876,Edgewell Personal Care,David Hatfield,0,DavidHatfield,David P. Hatfield
+876,877,Maxim Integrated Products,Tunï¿½ Doluca,0,Tunï¿½Doluca,Tunï¿½ Doluca
+877,878,Knights of Columbus,Carl Anderson,0,CarlAnderson,Carl A. Anderson
+878,879,IDEX,Andrew Silvernail,0,AndrewSilvernail,Andrew K. Silvernail
+879,880,DST Systems,William Stone,0,WilliamStone,William C. Stone
+880,881,Chicos FAS,Shelley Broader,0,ShelleyBroader,Shelley G. Broader
+881,882,Nu Skin Enterprises,Ritch Wood,0,RitchWood,Ritch N. Wood
+882,883,Herman Miller,Brian Walker,0,BrianWalker,Brian C. Walker
+883,884,NLV Financial,Mehran Assadi,0,MehranAssadi,Mehran Assadi
+884,885,Curtiss-Wright,David Adams,0,DavidAdams,David C. Adams
+885,886,New Jersey Resources,Laurence Downes,0,LaurenceDownes,Laurence M. Downes
+886,887,REV Group,Timothy Sullivan,0,TimothySullivan,Timothy W. Sullivan
+887,888,Mueller Industries,Gregory Christopher,0,GregoryChristopher,Gregory L. Christopher
+888,889,GEO Group,George Zoley,0,GeorgeZoley,George C. Zoley
+889,890,Allison Transmission Holdings,David Graziosi,0,DavidGraziosi,David S. Graziosi
+890,891,OGE Energy,Sean Trauschke,0,SeanTrauschke,Sean R. Trauschke
+891,892,Cheesecake Factory,David Overton,0,DavidOverton,David M. Overton
+892,893,PRA Health Sciences,Colin Shannon,0,ColinShannon,Colin Shannon
+893,894,Tupperware Brands,Patricia Stitzel,0,PatriciaStitzel,Patricia A. Stitzel
+894,895,Euronet Worldwide,Michael Brown,0,MichaelBrown,Michael J. Brown
+895,896,FLEETCOR Technologies,Ronald Clarke,0,RonaldClarke,Ronald F. Clarke
+896,897,Nationstar Mortgage Holdings,Jay Bray,0,JayBray,Jay Bray
+897,898,GoDaddy,Scott Wagner,0,ScottWagner,Scott W. Wagner
+898,899,Blackhawk Network Holdings,Talbott Roche,0,TalbottRoche,Talbott Roche
+899,900,Cboe Global Markets,Edward Tilly,0,EdwardTilly,Edward T. Tilly
+900,901,Snyders-Lance,Carlos Abrams-Rivera,0,CarlosAbrams-Rivera,Carlos Abrams-Rivera
+901,902,Murphy Oil,Roger Jenkins,0,RogerJenkins,Roger W. Jenkins
+902,903,CDK Global,Brian MacDonald,0,BrianMacDonald,Brian P. MacDonald
+903,904,Texas Roadhouse,Kent Taylor,0,KentTaylor,W. Kent Taylor
+904,905,Kirby,David Grzebinski,0,DavidGrzebinski,David W. Grzebinski
+905,906,Square,Jack Dorsey,0,JackDorsey,Jack Dorsey
+906,907,Genesee & Wyoming,John Hellmann,0,JohnHellmann,John C. Hellmann
+907,908,Zayo Group Holdings,Daniel Caruso,0,DanielCaruso,Daniel P. Caruso
+908,909,NewMarket,Thomas Gottwald,0,ThomasGottwald,Thomas E. Gottwald
+909,910,99 Cents Only Stores,Jack Sinclair,0,JackSinclair,Jack L. Sinclair
+910,911,PCM,Frank Khulusi,0,FrankKhulusi,Frank F. Khulusi
+911,912,Federated Mutual Insurance,Jeffrey Fetters,0,JeffreyFetters,Jeffrey E. Fetters
+912,913,HNI,Stanley Askren,0,StanleyAskren,Stanley A. Askren
+913,914,Hospitality Properties Trust,John Murray,0,JohnMurray,John G. Murray
+914,915,Greenbrier Cos.,William Furman,0,WilliamFurman,William A. Furman
+915,916,Bio-Rad Laboratories,Norman Schwartz,0,NormanSchwartz,Norman A. Schwartz
+916,917,AvalonBay Communities,Timothy Naughton,0,TimothyNaughton,Timothy J. Naughton
+917,918,Renewable Energy Group,Randolph Howard,0,RandolphHoward,Randolph L. Howard
+918,919,Atlas Air Worldwide Holdings,William Flynn,0,WilliamFlynn,William J. Flynn
+919,920,Teradata,Victor Lund,0,VictorLund,Victor L. Lund
+920,921,LCI Industries,Jason Lippert,0,JasonLippert,Jason D. Lippert
+921,922,Teleflex,Liam Kelly,0,LiamKelly,Liam J. Kelly
+922,923,Verisk Analytics,Scott Stephenson,0,ScottStephenson,Scott G. Stephenson
+923,924,Popular,Ignacio Alvarez,0,IgnacioAlvarez,Ignacio Alvarez
+924,925,Workday,Aneel Bhusri,0,AneelBhusri,Aneel Bhusri
+925,926,Cooper Cos.,Albert White I,0,AlbertWhiteI,Albert G. White III
+926,927,Express,David Kornberg,0,DavidKornberg,David G. Kornberg
+927,928,Teradyne,Mark Jagiela,0,MarkJagiela,Mark E. Jagiela
+928,929,Werner Enterprises,Derek Leathers,0,DerekLeathers,Derek J. Leathers
+929,930,Oaktree Capital Group,Jay Wintrob,0,JayWintrob,Jay S. Wintrob
+930,931,Woodward,Thomas Gendron,0,ThomasGendron,Thomas A. Gendron
+931,932,F5 Networks,Franï¿½ois Locoh-Donou,0,Franï¿½oisLocoh-Donou,Franï¿½ois Locoh-Donou
+932,933,Valvoline,Samuel Mitchell ,0,SamuelMitchell,Samuel J. Mitchell Jr.
+933,934,Roadrunner Transportation Systems,Curtis Stoelting,0,CurtisStoelting,Curtis W. Stoelting
+934,935,SemGroup,Carlin Conner,0,CarlinConner,Carlin G. Conner
+935,936,Catalent,John Chiminski,0,JohnChiminski,John R. Chiminski
+936,937,Quorum Health,Robert Fish,0,RobertFish,Robert H. Fish
+937,938,Universal,George Freeman I,0,GeorgeFreemanI,George C. Freeman III
+938,939,Nordson,Michael Hilton,0,MichaelHilton,Michael F. Hilton
+939,940,ResMed,Michael Farrell,0,MichaelFarrell,Michael J. Farrell
+940,941,Tower International,James Gouin,0,JamesGouin,James C. Gouin
+941,942,Freds,Joseph Anto,0,JosephAnto,Joseph M. Anto
+942,943,Foundation Building Materials,Ruben Mendoza,0,RubenMendoza,Ruben D. Mendoza
+943,944,Kennametal,Christopher Rossi,0,ChristopherRossi,Christopher Rossi
+944,945,Autodesk,Andrew Anagnost,0,AndrewAnagnost,Andrew Anagnost
+945,946,Ply Gem Holdings,Gary Robinette,0,GaryRobinette,Gary E. Robinette
+946,947,Central Garden & Pet,George Roeth,0,GeorgeRoeth,George C. Roeth
+947,948,Matson,Matthew Cox,0,MatthewCox,Matthew J. Cox
+948,949,EchoStar,Michael Dugan,0,MichaelDugan,Michael T. Dugan
+949,950,Genesis Energy,Grant Sims,0,GrantSims,Grant E. Sims
+950,951,SVB Financial Group,Gregory Becker,0,GregoryBecker,Gregory W. Becker
+951,952,Itron,Philip Mezey,0,PhilipMezey,Philip C. Mezey
+952,953,Portland General Electric,Maria Pope,0,MariaPope,Maria M. Pope
+953,954,California Resources,Todd Stevens,0,ToddStevens,Todd A. Stevens
+954,955,Esterline Technologies,Curtis Reusser,0,CurtisReusser,Curtis C. Reusser
+955,956,Delta Tucker Holdings,George Krivo,0,GeorgeKrivo,George Krivo
+956,957,AMN Healthcare Services,Susan Salka,0,SusanSalka,Susan R. Salka
+957,958,Griffon,Ronald Kramer,0,RonaldKramer,Ronald J. Kramer
+958,959,Valhi,Robert Graham,0,RobertGraham,Robert D. Graham
+959,960,Hexcel,Nick Stanage,0,NickStanage,Nick L. Stanage
+960,961,IDEXX Laboratories,Jonathan Ayers,0,JonathanAyers,Jonathan W. Ayers
+961,962,Deluxe,Lee Schram,0,LeeSchram,Lee J. Schram
+962,963,M/I Homes,Robert Schottenstein,0,RobertSchottenstein,Robert H. Schottenstein
+963,964,Kraton,Kevin Fogarty,0,KevinFogarty,Kevin M. Fogarty
+964,965,Stewart Information Services,Matthew Morris,0,MatthewMorris,Matthew W. Morris
+965,966,Marriott Vacations Worldwide,Stephen Weisz,0,StephenWeisz,Stephen P. Weisz
+966,967,SPX FLOW,Marcus Michael,0,MarcusMichael,Marcus G. Michael
+967,968,ACCO Brands,Boris Elisman,0,BorisElisman,Boris Y. Elisman
+968,969,Echo Global Logistics,Douglas Waggoner,0,DouglasWaggoner,Douglas R. Waggoner
+969,970,Cadence Design Systems,Lip-u Tan,0,Lip-uTan,Lip-Bu Tan
+970,971,Nuance Communications,Mark Benjamin,0,MarkBenjamin,Mark D. Benjamin
+971,972,Finish Line,Samuel Sato,0,SamuelSato,Samuel M. Sato
+972,973,TransUnion,James Peck,0,JamesPeck,James M. Peck
+973,974,ServiceNow,John Donahoe,0,JohnDonahoe,John J. Donahoe
+974,975,Summit Materials,Thomas Hill,0,ThomasHill,Thomas W. Hill
+975,976,Engility Holdings,Lynn Dugle,0,LynnDugle,Lynn A. Dugle
+976,977,Ferrellgas Partners,James Ferrell,0,JamesFerrell,James E. Ferrell
+977,978,Interactive Brokers Group,Thomas Peterffy,0,ThomasPeterffy,Thomas P. Peterffy
+978,979,Stepan,Quinn Stepan ,0,QuinnStepan,F. Quinn Stepan Jr.
+979,980,Oceaneering International,Roderick Larson,0,RoderickLarson,Roderick A. Larson
+980,981,Cimarex Energy,Thomas Jorden,0,ThomasJorden,Thomas E. Jorden
+981,982,Rexnord,Todd Adams,0,ToddAdams,Todd A. Adams
+982,983,Beazer Homes USA,Allan Merrill,0,AllanMerrill,Allan P. Merrill
+983,984,MKS Instruments,Gerald Colella,0,GeraldColella,Gerald G. Colella
+984,985,Vail Resorts,Robert Katz,0,RobertKatz,Robert A. Katz
+985,986,Ohio National Mutual,Gary Huffman,0,GaryHuffman,Gary T. Huffman
+986,987,TopBuild,Gerald Volas,0,GeraldVolas,Gerald Volas
+987,988,Brown & Brown,Powell Brown,0,PowellBrown,J. Powell Brown
+988,989,Aerojet Rocketdyne Holdings,Eileen Drake,0,EileenDrake,Eileen P. Drake
+989,990,Barnes & Noble Education,Michael Huseby,0,MichaelHuseby,Michael P. Huseby
+990,991,Superior Energy Services,David Dunlap,0,DavidDunlap,David D. Dunlap
+991,992,VeriFone Systems,Paul Galant,0,PaulGalant,Paul S. Galant
+992,993,Childrens Place,Jane Elfers,0,JaneElfers,Jane T. Elfers
+993,994,Tribune Media,Peter Kern,0,PeterKern,Peter M. Kern
+994,995,Healthcare Services Group,Theodore Wahl,0,TheodoreWahl,Theodore Wahl
+995,996,SiteOne Landscape Supply,Doug Black,0,DougBlack,Doug Black
+996,997,Charles River Laboratories Intl,James Foster,0,JamesFoster,James C. Foster
+997,998,CoreLogic,Frank Martell,0,FrankMartell,Frank D. Martell
+998,999,Ensign Group,Christopher Christensen,0,ChristopherChristensen,Christopher R. Christensen
+999,1000,HCP,Thomas Herzog,0,ThomasHerzog,Thomas M. Herzog
